@@ -14,7 +14,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ad"
+      "file": "ad",
+      "updatedAt": null
     },
     {
       "id": "AE",
@@ -27,7 +28,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ae"
+      "file": "ae",
+      "updatedAt": null
     },
     {
       "id": "AF",
@@ -40,7 +42,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "af"
+      "file": "af",
+      "updatedAt": null
     },
     {
       "id": "AG",
@@ -53,7 +56,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ag"
+      "file": "ag",
+      "updatedAt": null
     },
     {
       "id": "AI",
@@ -66,7 +70,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ai"
+      "file": "ai",
+      "updatedAt": null
     },
     {
       "id": "AL",
@@ -79,7 +84,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "al"
+      "file": "al",
+      "updatedAt": null
     },
     {
       "id": "AM",
@@ -92,7 +98,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "am"
+      "file": "am",
+      "updatedAt": null
     },
     {
       "id": "AO",
@@ -105,7 +112,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ao"
+      "file": "ao",
+      "updatedAt": null
     },
     {
       "id": "AQ",
@@ -118,7 +126,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "aq"
+      "file": "aq",
+      "updatedAt": null
     },
     {
       "id": "AR",
@@ -131,7 +140,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ar"
+      "file": "ar",
+      "updatedAt": null
     },
     {
       "id": "AS",
@@ -144,7 +154,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "as"
+      "file": "as",
+      "updatedAt": null
     },
     {
       "id": "AT",
@@ -157,7 +168,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "at"
+      "file": "at",
+      "updatedAt": null
     },
     {
       "id": "AU",
@@ -181,7 +193,8 @@
           "published": true,
           "approxSizeMB": 563,
           "tag": "osm-data",
-          "file": "nsw-act"
+          "file": "nsw-act",
+          "updatedAt": "2026-09-21T07:14:06Z"
         },
         {
           "id": "au-vic",
@@ -195,7 +208,8 @@
           "published": true,
           "approxSizeMB": 599,
           "tag": "osm-data",
-          "file": "vic"
+          "file": "vic",
+          "updatedAt": "2026-09-21T07:09:05Z"
         },
         {
           "id": "au-qld",
@@ -209,7 +223,8 @@
           "published": true,
           "approxSizeMB": 306,
           "tag": "osm-data",
-          "file": "qld"
+          "file": "qld",
+          "updatedAt": "2026-09-21T07:11:41Z"
         },
         {
           "id": "au-sa",
@@ -223,7 +238,8 @@
           "published": true,
           "approxSizeMB": 111,
           "tag": "osm-data",
-          "file": "sa"
+          "file": "sa",
+          "updatedAt": "2026-09-21T07:04:40Z"
         },
         {
           "id": "au-wa",
@@ -237,7 +253,8 @@
           "published": true,
           "approxSizeMB": 179,
           "tag": "osm-data",
-          "file": "wa"
+          "file": "wa",
+          "updatedAt": "2026-09-21T07:05:11Z"
         },
         {
           "id": "au-nt",
@@ -251,7 +268,8 @@
           "published": true,
           "approxSizeMB": 40,
           "tag": "osm-data",
-          "file": "nt"
+          "file": "nt",
+          "updatedAt": "2026-09-21T07:03:17Z"
         },
         {
           "id": "au-tas",
@@ -265,7 +283,8 @@
           "published": true,
           "approxSizeMB": 72,
           "tag": "osm-data",
-          "file": "tas"
+          "file": "tas",
+          "updatedAt": "2026-09-21T07:05:02Z"
         }
       ]
     },
@@ -280,7 +299,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "aw"
+      "file": "aw",
+      "updatedAt": null
     },
     {
       "id": "AX",
@@ -293,7 +313,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ax"
+      "file": "ax",
+      "updatedAt": null
     },
     {
       "id": "AZ",
@@ -306,7 +327,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "az"
+      "file": "az",
+      "updatedAt": null
     },
     {
       "id": "BA",
@@ -319,7 +341,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ba"
+      "file": "ba",
+      "updatedAt": null
     },
     {
       "id": "BB",
@@ -332,7 +355,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bb"
+      "file": "bb",
+      "updatedAt": null
     },
     {
       "id": "BD",
@@ -345,7 +369,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bd"
+      "file": "bd",
+      "updatedAt": null
     },
     {
       "id": "BE",
@@ -358,7 +383,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "be"
+      "file": "be",
+      "updatedAt": null
     },
     {
       "id": "BF",
@@ -371,7 +397,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bf"
+      "file": "bf",
+      "updatedAt": null
     },
     {
       "id": "BG",
@@ -384,7 +411,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bg"
+      "file": "bg",
+      "updatedAt": null
     },
     {
       "id": "BH",
@@ -397,7 +425,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bh"
+      "file": "bh",
+      "updatedAt": null
     },
     {
       "id": "BI",
@@ -410,7 +439,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bi"
+      "file": "bi",
+      "updatedAt": null
     },
     {
       "id": "BJ",
@@ -423,7 +453,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bj"
+      "file": "bj",
+      "updatedAt": null
     },
     {
       "id": "BL",
@@ -436,7 +467,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bl"
+      "file": "bl",
+      "updatedAt": null
     },
     {
       "id": "BM",
@@ -449,7 +481,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bm"
+      "file": "bm",
+      "updatedAt": null
     },
     {
       "id": "BN",
@@ -462,7 +495,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bn"
+      "file": "bn",
+      "updatedAt": null
     },
     {
       "id": "BO",
@@ -475,7 +509,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bo"
+      "file": "bo",
+      "updatedAt": null
     },
     {
       "id": "BQ",
@@ -488,7 +523,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bq"
+      "file": "bq",
+      "updatedAt": null
     },
     {
       "id": "BR",
@@ -501,7 +537,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "br"
+      "file": "br",
+      "updatedAt": null
     },
     {
       "id": "BS",
@@ -514,7 +551,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bs"
+      "file": "bs",
+      "updatedAt": null
     },
     {
       "id": "BT",
@@ -527,7 +565,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bt"
+      "file": "bt",
+      "updatedAt": null
     },
     {
       "id": "BW",
@@ -540,7 +579,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bw"
+      "file": "bw",
+      "updatedAt": null
     },
     {
       "id": "BY",
@@ -553,7 +593,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "by"
+      "file": "by",
+      "updatedAt": null
     },
     {
       "id": "BZ",
@@ -566,7 +607,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "bz"
+      "file": "bz",
+      "updatedAt": null
     },
     {
       "id": "CA",
@@ -579,7 +621,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ca"
+      "file": "ca",
+      "updatedAt": null
     },
     {
       "id": "CC",
@@ -592,7 +635,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cc"
+      "file": "cc",
+      "updatedAt": null
     },
     {
       "id": "CD",
@@ -605,7 +649,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cd"
+      "file": "cd",
+      "updatedAt": null
     },
     {
       "id": "CF",
@@ -618,7 +663,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cf"
+      "file": "cf",
+      "updatedAt": null
     },
     {
       "id": "CG",
@@ -631,7 +677,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cg"
+      "file": "cg",
+      "updatedAt": null
     },
     {
       "id": "CH",
@@ -644,7 +691,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ch"
+      "file": "ch",
+      "updatedAt": null
     },
     {
       "id": "CI",
@@ -657,7 +705,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ci"
+      "file": "ci",
+      "updatedAt": null
     },
     {
       "id": "CK",
@@ -670,7 +719,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ck"
+      "file": "ck",
+      "updatedAt": null
     },
     {
       "id": "CL",
@@ -683,7 +733,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cl"
+      "file": "cl",
+      "updatedAt": null
     },
     {
       "id": "CM",
@@ -696,7 +747,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cm"
+      "file": "cm",
+      "updatedAt": null
     },
     {
       "id": "CN",
@@ -709,7 +761,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cn"
+      "file": "cn",
+      "updatedAt": null
     },
     {
       "id": "CO",
@@ -722,7 +775,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "co"
+      "file": "co",
+      "updatedAt": null
     },
     {
       "id": "CR",
@@ -735,7 +789,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cr"
+      "file": "cr",
+      "updatedAt": null
     },
     {
       "id": "CU",
@@ -748,7 +803,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cu"
+      "file": "cu",
+      "updatedAt": null
     },
     {
       "id": "CV",
@@ -761,7 +817,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cv"
+      "file": "cv",
+      "updatedAt": null
     },
     {
       "id": "CW",
@@ -774,7 +831,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cw"
+      "file": "cw",
+      "updatedAt": null
     },
     {
       "id": "CX",
@@ -787,7 +845,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cx"
+      "file": "cx",
+      "updatedAt": null
     },
     {
       "id": "CY",
@@ -800,7 +859,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cy"
+      "file": "cy",
+      "updatedAt": null
     },
     {
       "id": "CZ",
@@ -813,7 +873,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "cz"
+      "file": "cz",
+      "updatedAt": null
     },
     {
       "id": "DE",
@@ -826,7 +887,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "de"
+      "file": "de",
+      "updatedAt": null
     },
     {
       "id": "DJ",
@@ -839,7 +901,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "dj"
+      "file": "dj",
+      "updatedAt": null
     },
     {
       "id": "DK",
@@ -852,7 +915,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "dk"
+      "file": "dk",
+      "updatedAt": null
     },
     {
       "id": "DM",
@@ -865,7 +929,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "dm"
+      "file": "dm",
+      "updatedAt": null
     },
     {
       "id": "DO",
@@ -878,7 +943,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "do"
+      "file": "do",
+      "updatedAt": null
     },
     {
       "id": "DZ",
@@ -891,7 +957,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "dz"
+      "file": "dz",
+      "updatedAt": null
     },
     {
       "id": "EC",
@@ -904,7 +971,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ec"
+      "file": "ec",
+      "updatedAt": null
     },
     {
       "id": "EE",
@@ -917,7 +985,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ee"
+      "file": "ee",
+      "updatedAt": null
     },
     {
       "id": "EG",
@@ -930,7 +999,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "eg"
+      "file": "eg",
+      "updatedAt": null
     },
     {
       "id": "EH",
@@ -943,7 +1013,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "eh"
+      "file": "eh",
+      "updatedAt": null
     },
     {
       "id": "ER",
@@ -956,7 +1027,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "er"
+      "file": "er",
+      "updatedAt": null
     },
     {
       "id": "ES",
@@ -969,7 +1041,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "es"
+      "file": "es",
+      "updatedAt": null
     },
     {
       "id": "ET",
@@ -982,7 +1055,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "et"
+      "file": "et",
+      "updatedAt": null
     },
     {
       "id": "FI",
@@ -995,7 +1069,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fi"
+      "file": "fi",
+      "updatedAt": null
     },
     {
       "id": "FJ",
@@ -1008,7 +1083,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fj"
+      "file": "fj",
+      "updatedAt": null
     },
     {
       "id": "FK",
@@ -1021,7 +1097,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fk"
+      "file": "fk",
+      "updatedAt": null
     },
     {
       "id": "FM",
@@ -1034,7 +1111,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fm"
+      "file": "fm",
+      "updatedAt": null
     },
     {
       "id": "FO",
@@ -1047,7 +1125,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fo"
+      "file": "fo",
+      "updatedAt": null
     },
     {
       "id": "FR",
@@ -1060,7 +1139,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "fr"
+      "file": "fr",
+      "updatedAt": null
     },
     {
       "id": "GA",
@@ -1073,7 +1153,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ga"
+      "file": "ga",
+      "updatedAt": null
     },
     {
       "id": "GB",
@@ -1086,7 +1167,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gb"
+      "file": "gb",
+      "updatedAt": null
     },
     {
       "id": "GD",
@@ -1099,7 +1181,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gd"
+      "file": "gd",
+      "updatedAt": null
     },
     {
       "id": "GE",
@@ -1112,7 +1195,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ge"
+      "file": "ge",
+      "updatedAt": null
     },
     {
       "id": "GF",
@@ -1125,7 +1209,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gf"
+      "file": "gf",
+      "updatedAt": null
     },
     {
       "id": "GG",
@@ -1138,7 +1223,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gg"
+      "file": "gg",
+      "updatedAt": null
     },
     {
       "id": "GH",
@@ -1151,7 +1237,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gh"
+      "file": "gh",
+      "updatedAt": null
     },
     {
       "id": "GI",
@@ -1164,7 +1251,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gi"
+      "file": "gi",
+      "updatedAt": null
     },
     {
       "id": "GL",
@@ -1177,7 +1265,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gl"
+      "file": "gl",
+      "updatedAt": null
     },
     {
       "id": "GM",
@@ -1190,7 +1279,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gm"
+      "file": "gm",
+      "updatedAt": null
     },
     {
       "id": "GN",
@@ -1203,7 +1293,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gn"
+      "file": "gn",
+      "updatedAt": null
     },
     {
       "id": "GP",
@@ -1216,7 +1307,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gp"
+      "file": "gp",
+      "updatedAt": null
     },
     {
       "id": "GQ",
@@ -1229,7 +1321,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gq"
+      "file": "gq",
+      "updatedAt": null
     },
     {
       "id": "GR",
@@ -1242,7 +1335,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gr"
+      "file": "gr",
+      "updatedAt": null
     },
     {
       "id": "GS",
@@ -1255,7 +1349,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gs"
+      "file": "gs",
+      "updatedAt": null
     },
     {
       "id": "GT",
@@ -1268,7 +1363,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gt"
+      "file": "gt",
+      "updatedAt": null
     },
     {
       "id": "GU",
@@ -1281,7 +1377,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gu"
+      "file": "gu",
+      "updatedAt": null
     },
     {
       "id": "GW",
@@ -1294,7 +1391,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gw"
+      "file": "gw",
+      "updatedAt": null
     },
     {
       "id": "GY",
@@ -1307,7 +1405,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "gy"
+      "file": "gy",
+      "updatedAt": null
     },
     {
       "id": "HK",
@@ -1320,7 +1419,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "hk"
+      "file": "hk",
+      "updatedAt": null
     },
     {
       "id": "HM",
@@ -1333,7 +1433,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "hm"
+      "file": "hm",
+      "updatedAt": null
     },
     {
       "id": "HN",
@@ -1346,7 +1447,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "hn"
+      "file": "hn",
+      "updatedAt": null
     },
     {
       "id": "HR",
@@ -1359,7 +1461,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "hr"
+      "file": "hr",
+      "updatedAt": null
     },
     {
       "id": "HT",
@@ -1372,7 +1475,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ht"
+      "file": "ht",
+      "updatedAt": null
     },
     {
       "id": "HU",
@@ -1385,7 +1489,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "hu"
+      "file": "hu",
+      "updatedAt": null
     },
     {
       "id": "ID",
@@ -1398,7 +1503,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "id"
+      "file": "id",
+      "updatedAt": null
     },
     {
       "id": "IE",
@@ -1411,7 +1517,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ie"
+      "file": "ie",
+      "updatedAt": null
     },
     {
       "id": "IL",
@@ -1424,7 +1531,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "il"
+      "file": "il",
+      "updatedAt": null
     },
     {
       "id": "IM",
@@ -1437,7 +1545,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "im"
+      "file": "im",
+      "updatedAt": null
     },
     {
       "id": "IN",
@@ -1450,7 +1559,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "in"
+      "file": "in",
+      "updatedAt": null
     },
     {
       "id": "IO",
@@ -1463,7 +1573,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "io"
+      "file": "io",
+      "updatedAt": null
     },
     {
       "id": "IQ",
@@ -1476,7 +1587,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "iq"
+      "file": "iq",
+      "updatedAt": null
     },
     {
       "id": "IR",
@@ -1489,7 +1601,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ir"
+      "file": "ir",
+      "updatedAt": null
     },
     {
       "id": "IS",
@@ -1502,7 +1615,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "is"
+      "file": "is",
+      "updatedAt": null
     },
     {
       "id": "IT",
@@ -1515,7 +1629,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "it"
+      "file": "it",
+      "updatedAt": null
     },
     {
       "id": "JE",
@@ -1528,7 +1643,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "je"
+      "file": "je",
+      "updatedAt": null
     },
     {
       "id": "JM",
@@ -1541,7 +1657,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "jm"
+      "file": "jm",
+      "updatedAt": null
     },
     {
       "id": "JO",
@@ -1554,7 +1671,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "jo"
+      "file": "jo",
+      "updatedAt": null
     },
     {
       "id": "JP",
@@ -1567,7 +1685,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "jp"
+      "file": "jp",
+      "updatedAt": null
     },
     {
       "id": "KE",
@@ -1580,7 +1699,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ke"
+      "file": "ke",
+      "updatedAt": null
     },
     {
       "id": "KG",
@@ -1593,7 +1713,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kg"
+      "file": "kg",
+      "updatedAt": null
     },
     {
       "id": "KH",
@@ -1606,7 +1727,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kh"
+      "file": "kh",
+      "updatedAt": null
     },
     {
       "id": "KI",
@@ -1619,7 +1741,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ki"
+      "file": "ki",
+      "updatedAt": null
     },
     {
       "id": "KM",
@@ -1632,7 +1755,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "km"
+      "file": "km",
+      "updatedAt": null
     },
     {
       "id": "KN",
@@ -1645,7 +1769,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kn"
+      "file": "kn",
+      "updatedAt": null
     },
     {
       "id": "KP",
@@ -1658,7 +1783,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kp"
+      "file": "kp",
+      "updatedAt": null
     },
     {
       "id": "KR",
@@ -1671,7 +1797,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kr"
+      "file": "kr",
+      "updatedAt": null
     },
     {
       "id": "KW",
@@ -1684,7 +1811,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kw"
+      "file": "kw",
+      "updatedAt": null
     },
     {
       "id": "KY",
@@ -1697,7 +1825,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ky"
+      "file": "ky",
+      "updatedAt": null
     },
     {
       "id": "KZ",
@@ -1710,7 +1839,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "kz"
+      "file": "kz",
+      "updatedAt": null
     },
     {
       "id": "LA",
@@ -1723,7 +1853,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "la"
+      "file": "la",
+      "updatedAt": null
     },
     {
       "id": "LB",
@@ -1736,7 +1867,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lb"
+      "file": "lb",
+      "updatedAt": null
     },
     {
       "id": "LC",
@@ -1749,7 +1881,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lc"
+      "file": "lc",
+      "updatedAt": null
     },
     {
       "id": "LI",
@@ -1762,7 +1895,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "li"
+      "file": "li",
+      "updatedAt": null
     },
     {
       "id": "LK",
@@ -1775,7 +1909,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lk"
+      "file": "lk",
+      "updatedAt": null
     },
     {
       "id": "LR",
@@ -1788,7 +1923,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lr"
+      "file": "lr",
+      "updatedAt": null
     },
     {
       "id": "LS",
@@ -1801,7 +1937,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ls"
+      "file": "ls",
+      "updatedAt": null
     },
     {
       "id": "LT",
@@ -1814,7 +1951,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lt"
+      "file": "lt",
+      "updatedAt": null
     },
     {
       "id": "LU",
@@ -1827,7 +1965,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lu"
+      "file": "lu",
+      "updatedAt": null
     },
     {
       "id": "LV",
@@ -1840,7 +1979,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "lv"
+      "file": "lv",
+      "updatedAt": null
     },
     {
       "id": "LY",
@@ -1853,7 +1993,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ly"
+      "file": "ly",
+      "updatedAt": null
     },
     {
       "id": "MA",
@@ -1866,7 +2007,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ma"
+      "file": "ma",
+      "updatedAt": null
     },
     {
       "id": "MC",
@@ -1879,7 +2021,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mc"
+      "file": "mc",
+      "updatedAt": null
     },
     {
       "id": "MD",
@@ -1892,7 +2035,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "md"
+      "file": "md",
+      "updatedAt": null
     },
     {
       "id": "ME",
@@ -1905,7 +2049,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "me"
+      "file": "me",
+      "updatedAt": null
     },
     {
       "id": "MF",
@@ -1918,7 +2063,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mf"
+      "file": "mf",
+      "updatedAt": null
     },
     {
       "id": "MG",
@@ -1931,7 +2077,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mg"
+      "file": "mg",
+      "updatedAt": null
     },
     {
       "id": "MH",
@@ -1944,7 +2091,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mh"
+      "file": "mh",
+      "updatedAt": null
     },
     {
       "id": "MK",
@@ -1957,7 +2105,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mk"
+      "file": "mk",
+      "updatedAt": null
     },
     {
       "id": "ML",
@@ -1970,7 +2119,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ml"
+      "file": "ml",
+      "updatedAt": null
     },
     {
       "id": "MM",
@@ -1983,7 +2133,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mm"
+      "file": "mm",
+      "updatedAt": null
     },
     {
       "id": "MN",
@@ -1996,7 +2147,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mn"
+      "file": "mn",
+      "updatedAt": null
     },
     {
       "id": "MO",
@@ -2009,7 +2161,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mo"
+      "file": "mo",
+      "updatedAt": null
     },
     {
       "id": "MP",
@@ -2022,7 +2175,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mp"
+      "file": "mp",
+      "updatedAt": null
     },
     {
       "id": "MQ",
@@ -2035,7 +2189,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mq"
+      "file": "mq",
+      "updatedAt": null
     },
     {
       "id": "MR",
@@ -2048,7 +2203,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mr"
+      "file": "mr",
+      "updatedAt": null
     },
     {
       "id": "MS",
@@ -2061,7 +2217,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ms"
+      "file": "ms",
+      "updatedAt": null
     },
     {
       "id": "MT",
@@ -2074,7 +2231,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mt"
+      "file": "mt",
+      "updatedAt": null
     },
     {
       "id": "MU",
@@ -2087,7 +2245,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mu"
+      "file": "mu",
+      "updatedAt": null
     },
     {
       "id": "MV",
@@ -2100,7 +2259,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mv"
+      "file": "mv",
+      "updatedAt": null
     },
     {
       "id": "MW",
@@ -2113,7 +2273,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mw"
+      "file": "mw",
+      "updatedAt": null
     },
     {
       "id": "MX",
@@ -2126,7 +2287,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mx"
+      "file": "mx",
+      "updatedAt": null
     },
     {
       "id": "MY",
@@ -2139,7 +2301,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "my"
+      "file": "my",
+      "updatedAt": null
     },
     {
       "id": "MZ",
@@ -2152,7 +2315,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "mz"
+      "file": "mz",
+      "updatedAt": null
     },
     {
       "id": "NA",
@@ -2165,7 +2329,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "na"
+      "file": "na",
+      "updatedAt": null
     },
     {
       "id": "NC",
@@ -2178,7 +2343,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nc"
+      "file": "nc",
+      "updatedAt": null
     },
     {
       "id": "NE",
@@ -2191,7 +2357,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ne"
+      "file": "ne",
+      "updatedAt": null
     },
     {
       "id": "NF",
@@ -2204,7 +2371,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nf"
+      "file": "nf",
+      "updatedAt": null
     },
     {
       "id": "NG",
@@ -2217,7 +2385,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ng"
+      "file": "ng",
+      "updatedAt": null
     },
     {
       "id": "NI",
@@ -2230,7 +2399,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ni"
+      "file": "ni",
+      "updatedAt": null
     },
     {
       "id": "NL",
@@ -2243,7 +2413,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nl"
+      "file": "nl",
+      "updatedAt": null
     },
     {
       "id": "NO",
@@ -2256,7 +2427,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "no"
+      "file": "no",
+      "updatedAt": null
     },
     {
       "id": "NP",
@@ -2269,7 +2441,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "np"
+      "file": "np",
+      "updatedAt": null
     },
     {
       "id": "NR",
@@ -2282,7 +2455,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nr"
+      "file": "nr",
+      "updatedAt": null
     },
     {
       "id": "NU",
@@ -2295,7 +2469,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nu"
+      "file": "nu",
+      "updatedAt": null
     },
     {
       "id": "NZ",
@@ -2308,7 +2483,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "nz"
+      "file": "nz",
+      "updatedAt": null
     },
     {
       "id": "OM",
@@ -2321,7 +2497,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "om"
+      "file": "om",
+      "updatedAt": null
     },
     {
       "id": "PA",
@@ -2334,7 +2511,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pa"
+      "file": "pa",
+      "updatedAt": null
     },
     {
       "id": "PE",
@@ -2347,7 +2525,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pe"
+      "file": "pe",
+      "updatedAt": null
     },
     {
       "id": "PF",
@@ -2360,7 +2539,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pf"
+      "file": "pf",
+      "updatedAt": null
     },
     {
       "id": "PG",
@@ -2373,7 +2553,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pg"
+      "file": "pg",
+      "updatedAt": null
     },
     {
       "id": "PH",
@@ -2386,7 +2567,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ph"
+      "file": "ph",
+      "updatedAt": null
     },
     {
       "id": "PK",
@@ -2399,7 +2581,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pk"
+      "file": "pk",
+      "updatedAt": null
     },
     {
       "id": "PL",
@@ -2412,7 +2595,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pl"
+      "file": "pl",
+      "updatedAt": null
     },
     {
       "id": "PM",
@@ -2425,7 +2609,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pm"
+      "file": "pm",
+      "updatedAt": null
     },
     {
       "id": "PN",
@@ -2438,7 +2623,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pn"
+      "file": "pn",
+      "updatedAt": null
     },
     {
       "id": "PR",
@@ -2451,7 +2637,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pr"
+      "file": "pr",
+      "updatedAt": null
     },
     {
       "id": "PS",
@@ -2464,7 +2651,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ps"
+      "file": "ps",
+      "updatedAt": null
     },
     {
       "id": "PT",
@@ -2477,7 +2665,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pt"
+      "file": "pt",
+      "updatedAt": null
     },
     {
       "id": "PW",
@@ -2490,7 +2679,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "pw"
+      "file": "pw",
+      "updatedAt": null
     },
     {
       "id": "PY",
@@ -2503,7 +2693,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "py"
+      "file": "py",
+      "updatedAt": null
     },
     {
       "id": "QA",
@@ -2516,7 +2707,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "qa"
+      "file": "qa",
+      "updatedAt": null
     },
     {
       "id": "RE",
@@ -2529,7 +2721,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "re"
+      "file": "re",
+      "updatedAt": null
     },
     {
       "id": "RO",
@@ -2542,7 +2735,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ro"
+      "file": "ro",
+      "updatedAt": null
     },
     {
       "id": "RS",
@@ -2555,7 +2749,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "rs"
+      "file": "rs",
+      "updatedAt": null
     },
     {
       "id": "RU",
@@ -2568,7 +2763,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ru"
+      "file": "ru",
+      "updatedAt": null
     },
     {
       "id": "RW",
@@ -2581,7 +2777,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "rw"
+      "file": "rw",
+      "updatedAt": null
     },
     {
       "id": "SA",
@@ -2594,7 +2791,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sa"
+      "file": "sa",
+      "updatedAt": null
     },
     {
       "id": "SB",
@@ -2607,7 +2805,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sb"
+      "file": "sb",
+      "updatedAt": null
     },
     {
       "id": "SC",
@@ -2620,7 +2819,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sc"
+      "file": "sc",
+      "updatedAt": null
     },
     {
       "id": "SD",
@@ -2633,7 +2833,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sd"
+      "file": "sd",
+      "updatedAt": null
     },
     {
       "id": "SE",
@@ -2646,7 +2847,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "se"
+      "file": "se",
+      "updatedAt": null
     },
     {
       "id": "SG",
@@ -2659,7 +2861,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sg"
+      "file": "sg",
+      "updatedAt": null
     },
     {
       "id": "SH",
@@ -2672,7 +2875,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sh"
+      "file": "sh",
+      "updatedAt": null
     },
     {
       "id": "SI",
@@ -2685,7 +2889,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "si"
+      "file": "si",
+      "updatedAt": null
     },
     {
       "id": "SJ",
@@ -2698,7 +2903,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sj"
+      "file": "sj",
+      "updatedAt": null
     },
     {
       "id": "SK",
@@ -2711,7 +2917,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sk"
+      "file": "sk",
+      "updatedAt": null
     },
     {
       "id": "SL",
@@ -2724,7 +2931,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sl"
+      "file": "sl",
+      "updatedAt": null
     },
     {
       "id": "SM",
@@ -2737,7 +2945,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sm"
+      "file": "sm",
+      "updatedAt": null
     },
     {
       "id": "SN",
@@ -2750,7 +2959,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sn"
+      "file": "sn",
+      "updatedAt": null
     },
     {
       "id": "SO",
@@ -2763,7 +2973,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "so"
+      "file": "so",
+      "updatedAt": null
     },
     {
       "id": "SR",
@@ -2776,7 +2987,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sr"
+      "file": "sr",
+      "updatedAt": null
     },
     {
       "id": "SS",
@@ -2789,7 +3001,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ss"
+      "file": "ss",
+      "updatedAt": null
     },
     {
       "id": "ST",
@@ -2802,7 +3015,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "st"
+      "file": "st",
+      "updatedAt": null
     },
     {
       "id": "SV",
@@ -2815,7 +3029,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sv"
+      "file": "sv",
+      "updatedAt": null
     },
     {
       "id": "SX",
@@ -2828,7 +3043,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sx"
+      "file": "sx",
+      "updatedAt": null
     },
     {
       "id": "SY",
@@ -2841,7 +3057,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sy"
+      "file": "sy",
+      "updatedAt": null
     },
     {
       "id": "SZ",
@@ -2854,7 +3071,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "sz"
+      "file": "sz",
+      "updatedAt": null
     },
     {
       "id": "TC",
@@ -2867,7 +3085,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tc"
+      "file": "tc",
+      "updatedAt": null
     },
     {
       "id": "TD",
@@ -2880,7 +3099,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "td"
+      "file": "td",
+      "updatedAt": null
     },
     {
       "id": "TF",
@@ -2893,7 +3113,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tf"
+      "file": "tf",
+      "updatedAt": null
     },
     {
       "id": "TG",
@@ -2906,7 +3127,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tg"
+      "file": "tg",
+      "updatedAt": null
     },
     {
       "id": "TH",
@@ -2919,7 +3141,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "th"
+      "file": "th",
+      "updatedAt": null
     },
     {
       "id": "TJ",
@@ -2932,7 +3155,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tj"
+      "file": "tj",
+      "updatedAt": null
     },
     {
       "id": "TK",
@@ -2945,7 +3169,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tk"
+      "file": "tk",
+      "updatedAt": null
     },
     {
       "id": "TL",
@@ -2958,7 +3183,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tl"
+      "file": "tl",
+      "updatedAt": null
     },
     {
       "id": "TM",
@@ -2971,7 +3197,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tm"
+      "file": "tm",
+      "updatedAt": null
     },
     {
       "id": "TN",
@@ -2984,7 +3211,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tn"
+      "file": "tn",
+      "updatedAt": null
     },
     {
       "id": "TO",
@@ -2997,7 +3225,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "to"
+      "file": "to",
+      "updatedAt": null
     },
     {
       "id": "TR",
@@ -3010,7 +3239,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tr"
+      "file": "tr",
+      "updatedAt": null
     },
     {
       "id": "TT",
@@ -3023,7 +3253,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tt"
+      "file": "tt",
+      "updatedAt": null
     },
     {
       "id": "TV",
@@ -3036,7 +3267,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tv"
+      "file": "tv",
+      "updatedAt": null
     },
     {
       "id": "TW",
@@ -3049,7 +3281,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tw"
+      "file": "tw",
+      "updatedAt": null
     },
     {
       "id": "TZ",
@@ -3062,7 +3295,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "tz"
+      "file": "tz",
+      "updatedAt": null
     },
     {
       "id": "UA",
@@ -3075,7 +3309,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ua"
+      "file": "ua",
+      "updatedAt": null
     },
     {
       "id": "UG",
@@ -3088,7 +3323,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ug"
+      "file": "ug",
+      "updatedAt": null
     },
     {
       "id": "US",
@@ -3101,7 +3337,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "us"
+      "file": "us",
+      "updatedAt": null
     },
     {
       "id": "UY",
@@ -3114,7 +3351,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "uy"
+      "file": "uy",
+      "updatedAt": null
     },
     {
       "id": "UZ",
@@ -3127,7 +3365,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "uz"
+      "file": "uz",
+      "updatedAt": null
     },
     {
       "id": "VA",
@@ -3140,7 +3379,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "va"
+      "file": "va",
+      "updatedAt": null
     },
     {
       "id": "VC",
@@ -3153,7 +3393,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "vc"
+      "file": "vc",
+      "updatedAt": null
     },
     {
       "id": "VE",
@@ -3166,7 +3407,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ve"
+      "file": "ve",
+      "updatedAt": null
     },
     {
       "id": "VG",
@@ -3179,7 +3421,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "vg"
+      "file": "vg",
+      "updatedAt": null
     },
     {
       "id": "VI",
@@ -3192,7 +3435,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "vi"
+      "file": "vi",
+      "updatedAt": null
     },
     {
       "id": "VN",
@@ -3205,7 +3449,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "vn"
+      "file": "vn",
+      "updatedAt": null
     },
     {
       "id": "VU",
@@ -3218,7 +3463,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "vu"
+      "file": "vu",
+      "updatedAt": null
     },
     {
       "id": "WF",
@@ -3231,7 +3477,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "wf"
+      "file": "wf",
+      "updatedAt": null
     },
     {
       "id": "WS",
@@ -3244,7 +3491,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ws"
+      "file": "ws",
+      "updatedAt": null
     },
     {
       "id": "YE",
@@ -3257,7 +3505,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "ye"
+      "file": "ye",
+      "updatedAt": null
     },
     {
       "id": "YT",
@@ -3270,7 +3519,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "yt"
+      "file": "yt",
+      "updatedAt": null
     },
     {
       "id": "ZA",
@@ -3283,7 +3533,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "za"
+      "file": "za",
+      "updatedAt": null
     },
     {
       "id": "ZM",
@@ -3296,7 +3547,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "zm"
+      "file": "zm",
+      "updatedAt": null
     },
     {
       "id": "ZW",
@@ -3309,7 +3561,8 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "zw"
+      "file": "zw",
+      "updatedAt": null
     }
   ]
 }

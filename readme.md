@@ -25,7 +25,8 @@ old `outdevnull/aeryx_old` region split).
       "subRegions": [
         { "id": "au-nsw-act", "name": "...", "bbox": [...],
           "published": true, "approxSizeMB": 563,
-          "tag": "osm-data", "file": "nsw-act" }
+          "tag": "osm-data", "file": "nsw-act",
+          "updatedAt": "2026-09-21T07:14:06Z" }
       ]
     },
     {
@@ -34,7 +35,8 @@ old `outdevnull/aeryx_old` region split).
       "bbox": [...],
       "published": false,
       "tag": "osm-data",
-      "file": "nz"
+      "file": "nz",
+      "updatedAt": null
     }
   ]
 }
@@ -51,6 +53,15 @@ files live at:
 {baseURL}/{tag}/{file}.aerx
 {baseURL}/{tag}/{file}.aerxg
 ```
+
+`updatedAt` (ISO 8601 UTC, `null` when unpublished) is how the app
+tells "downloaded and current" from "downloaded but stale, an update is
+available" — it records the source data's actual last-modified time
+(the newer of that region's `.aerx`/`.aerxg` GitHub Release asset
+timestamps), not a manifest edit time. It only changes when the
+underlying data is actually rebuilt/republished, so bumping it is a
+step in whatever eventually replaces `tools/publish_data.sh`, not a
+manual manifest edit.
 
 Every country worldwide (~247, from Natural Earth admin-0 boundaries)
 is listed, almost all `published: false` — there's no worldwide OSM
