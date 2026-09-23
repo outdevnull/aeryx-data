@@ -1,0 +1,3315 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-23T00:31:27Z",
+  "baseURL": "https://github.com/outdevnull/aeryx-data/releases/download",
+  "countries": [
+    {
+      "id": "AD",
+      "name": "Andorra",
+      "bbox": [
+        1.415,
+        42.434,
+        1.74,
+        42.643
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ad"
+    },
+    {
+      "id": "AE",
+      "name": "United Arab Emirates",
+      "bbox": [
+        51.568,
+        22.621,
+        56.388,
+        26.068
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ae"
+    },
+    {
+      "id": "AF",
+      "name": "Afghanistan",
+      "bbox": [
+        60.486,
+        29.392,
+        74.891,
+        38.456
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "af"
+    },
+    {
+      "id": "AG",
+      "name": "Antigua and Barbuda",
+      "bbox": [
+        -61.887,
+        16.997,
+        -61.686,
+        17.714
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ag"
+    },
+    {
+      "id": "AI",
+      "name": "Anguilla",
+      "bbox": [
+        -63.16,
+        18.171,
+        -62.98,
+        18.27
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ai"
+    },
+    {
+      "id": "AL",
+      "name": "Albania",
+      "bbox": [
+        19.281,
+        39.654,
+        21.031,
+        42.648
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "al"
+    },
+    {
+      "id": "AM",
+      "name": "Armenia",
+      "bbox": [
+        43.439,
+        38.869,
+        46.585,
+        41.291
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "am"
+    },
+    {
+      "id": "AO",
+      "name": "Angola",
+      "bbox": [
+        11.743,
+        -18.02,
+        24.047,
+        -4.429
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ao"
+    },
+    {
+      "id": "AQ",
+      "name": "Antarctica",
+      "bbox": [
+        -180.0,
+        -89.999,
+        180.0,
+        -60.521
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "aq"
+    },
+    {
+      "id": "AR",
+      "name": "Argentina",
+      "bbox": [
+        -73.576,
+        -55.032,
+        -53.669,
+        -21.803
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ar"
+    },
+    {
+      "id": "AS",
+      "name": "American Samoa",
+      "bbox": [
+        -170.821,
+        -14.36,
+        -170.568,
+        -14.257
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "as"
+    },
+    {
+      "id": "AT",
+      "name": "Austria",
+      "bbox": [
+        9.524,
+        46.4,
+        17.147,
+        49.001
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "at"
+    },
+    {
+      "id": "AU",
+      "name": "Australia",
+      "bbox": [
+        112.908,
+        -54.749,
+        158.959,
+        -10.052
+      ],
+      "subRegions": [
+        {
+          "id": "au-nsw-act",
+          "name": "New South Wales & ACT",
+          "bbox": [
+            140.999,
+            -37.505,
+            153.639,
+            -28.157
+          ],
+          "published": true,
+          "approxSizeMB": 563,
+          "tag": "osm-data",
+          "file": "nsw-act"
+        },
+        {
+          "id": "au-vic",
+          "name": "Victoria",
+          "bbox": [
+            140.962,
+            -39.16,
+            149.977,
+            -33.981
+          ],
+          "published": true,
+          "approxSizeMB": 599,
+          "tag": "osm-data",
+          "file": "vic"
+        },
+        {
+          "id": "au-qld",
+          "name": "Queensland",
+          "bbox": [
+            138.0,
+            -29.177,
+            153.552,
+            -10.684
+          ],
+          "published": true,
+          "approxSizeMB": 306,
+          "tag": "osm-data",
+          "file": "qld"
+        },
+        {
+          "id": "au-sa",
+          "name": "South Australia",
+          "bbox": [
+            129.001,
+            -38.062,
+            141.003,
+            -26.0
+          ],
+          "published": true,
+          "approxSizeMB": 111,
+          "tag": "osm-data",
+          "file": "sa"
+        },
+        {
+          "id": "au-wa",
+          "name": "Western Australia",
+          "bbox": [
+            112.921,
+            -35.135,
+            129.002,
+            -13.689
+          ],
+          "published": true,
+          "approxSizeMB": 179,
+          "tag": "osm-data",
+          "file": "wa"
+        },
+        {
+          "id": "au-nt",
+          "name": "Northern Territory",
+          "bbox": [
+            129.001,
+            -25.997,
+            138.001,
+            -10.97
+          ],
+          "published": true,
+          "approxSizeMB": 40,
+          "tag": "osm-data",
+          "file": "nt"
+        },
+        {
+          "id": "au-tas",
+          "name": "Tasmania",
+          "bbox": [
+            143.837,
+            -43.644,
+            148.479,
+            -39.578
+          ],
+          "published": true,
+          "approxSizeMB": 72,
+          "tag": "osm-data",
+          "file": "tas"
+        }
+      ]
+    },
+    {
+      "id": "AW",
+      "name": "Aruba",
+      "bbox": [
+        -70.066,
+        12.423,
+        -69.896,
+        12.614
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "aw"
+    },
+    {
+      "id": "AX",
+      "name": "\u00c5land Islands",
+      "bbox": [
+        19.519,
+        60.012,
+        20.611,
+        60.406
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ax"
+    },
+    {
+      "id": "AZ",
+      "name": "Azerbaijan",
+      "bbox": [
+        44.768,
+        38.399,
+        50.366,
+        41.891
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "az"
+    },
+    {
+      "id": "BA",
+      "name": "Bosnia and Herzegovina",
+      "bbox": [
+        15.737,
+        42.56,
+        19.584,
+        45.277
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ba"
+    },
+    {
+      "id": "BB",
+      "name": "Barbados",
+      "bbox": [
+        -59.647,
+        13.062,
+        -59.428,
+        13.318
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bb"
+    },
+    {
+      "id": "BD",
+      "name": "Bangladesh",
+      "bbox": [
+        88.023,
+        20.79,
+        92.632,
+        26.572
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bd"
+    },
+    {
+      "id": "BE",
+      "name": "Belgium",
+      "bbox": [
+        2.525,
+        49.511,
+        6.364,
+        51.491
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "be"
+    },
+    {
+      "id": "BF",
+      "name": "Burkina Faso",
+      "bbox": [
+        -5.524,
+        9.425,
+        2.389,
+        15.078
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bf"
+    },
+    {
+      "id": "BG",
+      "name": "Bulgaria",
+      "bbox": [
+        22.344,
+        41.244,
+        28.585,
+        44.238
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bg"
+    },
+    {
+      "id": "BH",
+      "name": "Bahrain",
+      "bbox": [
+        50.452,
+        25.807,
+        50.617,
+        26.246
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bh"
+    },
+    {
+      "id": "BI",
+      "name": "Burundi",
+      "bbox": [
+        29.014,
+        -4.456,
+        30.811,
+        -2.313
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bi"
+    },
+    {
+      "id": "BJ",
+      "name": "Benin",
+      "bbox": [
+        0.763,
+        6.217,
+        3.834,
+        12.384
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bj"
+    },
+    {
+      "id": "BL",
+      "name": "Saint Barth\u00e9lemy",
+      "bbox": [
+        -62.875,
+        17.875,
+        -62.8,
+        17.922
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bl"
+    },
+    {
+      "id": "BM",
+      "name": "Bermuda",
+      "bbox": [
+        -64.863,
+        32.26,
+        -64.668,
+        32.387
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bm"
+    },
+    {
+      "id": "BN",
+      "name": "Brunei Darussalam",
+      "bbox": [
+        114.064,
+        4.024,
+        115.327,
+        5.022
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bn"
+    },
+    {
+      "id": "BO",
+      "name": "Bolivia, Plurinational State of",
+      "bbox": [
+        -69.646,
+        -22.892,
+        -57.496,
+        -9.71
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bo"
+    },
+    {
+      "id": "BQ",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "bbox": [
+        -68.371,
+        12.032,
+        -68.206,
+        12.302
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bq"
+    },
+    {
+      "id": "BR",
+      "name": "Brazil",
+      "bbox": [
+        -74.002,
+        -33.742,
+        -34.805,
+        5.258
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "br"
+    },
+    {
+      "id": "BS",
+      "name": "Bahamas",
+      "bbox": [
+        -78.986,
+        20.937,
+        -72.747,
+        26.94
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bs"
+    },
+    {
+      "id": "BT",
+      "name": "Bhutan",
+      "bbox": [
+        88.739,
+        26.702,
+        92.083,
+        28.311
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bt"
+    },
+    {
+      "id": "BW",
+      "name": "Botswana",
+      "bbox": [
+        19.977,
+        -26.854,
+        29.365,
+        -17.788
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bw"
+    },
+    {
+      "id": "BY",
+      "name": "Belarus",
+      "bbox": [
+        23.175,
+        51.265,
+        32.71,
+        56.146
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "by"
+    },
+    {
+      "id": "BZ",
+      "name": "Belize",
+      "bbox": [
+        -89.237,
+        15.889,
+        -87.789,
+        18.482
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "bz"
+    },
+    {
+      "id": "CA",
+      "name": "Canada",
+      "bbox": [
+        -141.002,
+        41.675,
+        -52.654,
+        83.116
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ca"
+    },
+    {
+      "id": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "bbox": [
+        96.826,
+        -12.2,
+        96.925,
+        -12.126
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cc"
+    },
+    {
+      "id": "CD",
+      "name": "Congo, Democratic Republic of the",
+      "bbox": [
+        12.214,
+        -13.454,
+        31.274,
+        5.312
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cd"
+    },
+    {
+      "id": "CF",
+      "name": "Central African Republic",
+      "bbox": [
+        14.431,
+        2.27,
+        27.403,
+        10.996
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cf"
+    },
+    {
+      "id": "CG",
+      "name": "Congo",
+      "bbox": [
+        11.13,
+        -5.004,
+        18.622,
+        3.687
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cg"
+    },
+    {
+      "id": "CH",
+      "name": "Switzerland",
+      "bbox": [
+        5.97,
+        45.83,
+        10.455,
+        47.776
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ch"
+    },
+    {
+      "id": "CI",
+      "name": "C\u00f4te d'Ivoire",
+      "bbox": [
+        -8.604,
+        4.351,
+        -2.506,
+        10.724
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ci"
+    },
+    {
+      "id": "CK",
+      "name": "Cook Islands",
+      "bbox": [
+        -159.842,
+        -21.25,
+        -159.737,
+        -21.186
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ck"
+    },
+    {
+      "id": "CL",
+      "name": "Chile",
+      "bbox": [
+        -109.434,
+        -55.892,
+        -66.436,
+        -17.506
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cl"
+    },
+    {
+      "id": "CM",
+      "name": "Cameroon",
+      "bbox": [
+        8.533,
+        1.676,
+        16.183,
+        13.079
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cm"
+    },
+    {
+      "id": "CN",
+      "name": "China",
+      "bbox": [
+        73.607,
+        18.218,
+        134.752,
+        53.556
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cn"
+    },
+    {
+      "id": "CO",
+      "name": "Colombia",
+      "bbox": [
+        -82.39,
+        -4.236,
+        -66.876,
+        15.33
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "co"
+    },
+    {
+      "id": "CR",
+      "name": "Costa Rica",
+      "bbox": [
+        -85.908,
+        8.071,
+        -82.564,
+        11.189
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cr"
+    },
+    {
+      "id": "CU",
+      "name": "Cuba",
+      "bbox": [
+        -84.887,
+        19.855,
+        -74.137,
+        23.19
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cu"
+    },
+    {
+      "id": "CV",
+      "name": "Cabo Verde",
+      "bbox": [
+        -25.342,
+        14.818,
+        -22.682,
+        17.194
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cv"
+    },
+    {
+      "id": "CW",
+      "name": "Cura\u00e7ao",
+      "bbox": [
+        -69.159,
+        12.045,
+        -68.751,
+        12.38
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cw"
+    },
+    {
+      "id": "CX",
+      "name": "Christmas Island",
+      "bbox": [
+        105.584,
+        -10.564,
+        105.725,
+        -10.431
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cx"
+    },
+    {
+      "id": "CY",
+      "name": "Cyprus",
+      "bbox": [
+        32.301,
+        34.57,
+        34.556,
+        35.662
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cy"
+    },
+    {
+      "id": "CZ",
+      "name": "Czechia",
+      "bbox": [
+        12.09,
+        48.576,
+        18.832,
+        51.038
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "cz"
+    },
+    {
+      "id": "DE",
+      "name": "Germany",
+      "bbox": [
+        5.858,
+        47.279,
+        15.017,
+        55.059
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "de"
+    },
+    {
+      "id": "DJ",
+      "name": "Djibouti",
+      "bbox": [
+        41.765,
+        10.941,
+        43.41,
+        12.709
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "dj"
+    },
+    {
+      "id": "DK",
+      "name": "Denmark",
+      "bbox": [
+        8.121,
+        54.629,
+        15.137,
+        57.737
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "dk"
+    },
+    {
+      "id": "DM",
+      "name": "Dominica",
+      "bbox": [
+        -61.481,
+        15.227,
+        -61.251,
+        15.633
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "dm"
+    },
+    {
+      "id": "DO",
+      "name": "Dominican Republic",
+      "bbox": [
+        -72.0,
+        17.636,
+        -68.339,
+        19.914
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "do"
+    },
+    {
+      "id": "DZ",
+      "name": "Algeria",
+      "bbox": [
+        -8.683,
+        18.987,
+        11.968,
+        37.092
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "dz"
+    },
+    {
+      "id": "EC",
+      "name": "Ecuador",
+      "bbox": [
+        -91.654,
+        -4.991,
+        -75.25,
+        1.455
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ec"
+    },
+    {
+      "id": "EE",
+      "name": "Estonia",
+      "bbox": [
+        21.854,
+        57.525,
+        28.151,
+        59.639
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ee"
+    },
+    {
+      "id": "EG",
+      "name": "Egypt",
+      "bbox": [
+        24.703,
+        21.995,
+        36.871,
+        31.655
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "eg"
+    },
+    {
+      "id": "EH",
+      "name": "Western Sahara",
+      "bbox": [
+        -17.099,
+        20.806,
+        -8.682,
+        27.656
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "eh"
+    },
+    {
+      "id": "ER",
+      "name": "Eritrea",
+      "bbox": [
+        36.427,
+        12.377,
+        43.117,
+        18.005
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "er"
+    },
+    {
+      "id": "ES",
+      "name": "Spain",
+      "bbox": [
+        -18.161,
+        27.646,
+        4.322,
+        43.765
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "es"
+    },
+    {
+      "id": "ET",
+      "name": "Ethiopia",
+      "bbox": [
+        32.999,
+        3.456,
+        47.978,
+        14.852
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "et"
+    },
+    {
+      "id": "FI",
+      "name": "Finland",
+      "bbox": [
+        20.622,
+        59.816,
+        31.537,
+        70.065
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fi"
+    },
+    {
+      "id": "FJ",
+      "name": "Fiji",
+      "bbox": [
+        -180.0,
+        -21.706,
+        180.0,
+        -12.477
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fj"
+    },
+    {
+      "id": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "bbox": [
+        -61.145,
+        -52.308,
+        -57.792,
+        -51.27
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fk"
+    },
+    {
+      "id": "FM",
+      "name": "Micronesia, Federated States of",
+      "bbox": [
+        138.062,
+        5.277,
+        162.993,
+        9.593
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fm"
+    },
+    {
+      "id": "FO",
+      "name": "Faroe Islands",
+      "bbox": [
+        -7.423,
+        61.414,
+        -6.406,
+        62.356
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fo"
+    },
+    {
+      "id": "FR",
+      "name": "France",
+      "bbox": [
+        -4.763,
+        41.385,
+        9.556,
+        51.097
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "fr"
+    },
+    {
+      "id": "GA",
+      "name": "Gabon",
+      "bbox": [
+        8.703,
+        -3.916,
+        14.481,
+        2.302
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ga"
+    },
+    {
+      "id": "GB",
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "bbox": [
+        -8.145,
+        50.021,
+        1.747,
+        60.832
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gb"
+    },
+    {
+      "id": "GD",
+      "name": "Grenada",
+      "bbox": [
+        -61.782,
+        12.008,
+        -61.607,
+        12.237
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gd"
+    },
+    {
+      "id": "GE",
+      "name": "Georgia",
+      "bbox": [
+        39.978,
+        41.07,
+        46.673,
+        43.57
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ge"
+    },
+    {
+      "id": "GF",
+      "name": "French Guiana",
+      "bbox": [
+        -54.616,
+        2.121,
+        -51.653,
+        5.782
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gf"
+    },
+    {
+      "id": "GG",
+      "name": "Guernsey",
+      "bbox": [
+        -2.646,
+        49.429,
+        -2.512,
+        49.507
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gg"
+    },
+    {
+      "id": "GH",
+      "name": "Ghana",
+      "bbox": [
+        -3.244,
+        4.762,
+        1.187,
+        11.167
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gh"
+    },
+    {
+      "id": "GI",
+      "name": "Gibraltar",
+      "bbox": [
+        -5.368,
+        36.109,
+        -5.336,
+        36.155
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gi"
+    },
+    {
+      "id": "GL",
+      "name": "Greenland",
+      "bbox": [
+        -72.818,
+        59.815,
+        -11.426,
+        83.6
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gl"
+    },
+    {
+      "id": "GM",
+      "name": "Gambia",
+      "bbox": [
+        -16.825,
+        13.064,
+        -13.827,
+        13.812
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gm"
+    },
+    {
+      "id": "GN",
+      "name": "Guinea",
+      "bbox": [
+        -15.051,
+        7.216,
+        -7.681,
+        12.674
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gn"
+    },
+    {
+      "id": "GP",
+      "name": "Guadeloupe",
+      "bbox": [
+        -61.794,
+        15.886,
+        -61.173,
+        16.507
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gp"
+    },
+    {
+      "id": "GQ",
+      "name": "Equatorial Guinea",
+      "bbox": [
+        8.434,
+        0.96,
+        11.335,
+        3.758
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gq"
+    },
+    {
+      "id": "GR",
+      "name": "Greece",
+      "bbox": [
+        19.646,
+        34.934,
+        28.232,
+        41.744
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gr"
+    },
+    {
+      "id": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "bbox": [
+        -38.017,
+        -58.492,
+        -26.26,
+        -53.984
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gs"
+    },
+    {
+      "id": "GT",
+      "name": "Guatemala",
+      "bbox": [
+        -92.235,
+        13.737,
+        -88.228,
+        17.816
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gt"
+    },
+    {
+      "id": "GU",
+      "name": "Guam",
+      "bbox": [
+        144.649,
+        13.258,
+        144.941,
+        13.622
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gu"
+    },
+    {
+      "id": "GW",
+      "name": "Guinea-Bissau",
+      "bbox": [
+        -16.712,
+        10.94,
+        -13.674,
+        12.68
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gw"
+    },
+    {
+      "id": "GY",
+      "name": "Guyana",
+      "bbox": [
+        -61.391,
+        1.201,
+        -56.483,
+        8.549
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "gy"
+    },
+    {
+      "id": "HK",
+      "name": "Hong Kong",
+      "bbox": [
+        113.839,
+        22.195,
+        114.335,
+        22.565
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "hk"
+    },
+    {
+      "id": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "bbox": [
+        73.251,
+        -53.185,
+        73.838,
+        -52.966
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "hm"
+    },
+    {
+      "id": "HN",
+      "name": "Honduras",
+      "bbox": [
+        -89.363,
+        12.979,
+        -83.158,
+        16.514
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "hn"
+    },
+    {
+      "id": "HR",
+      "name": "Croatia",
+      "bbox": [
+        13.517,
+        42.433,
+        19.401,
+        46.535
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "hr"
+    },
+    {
+      "id": "HT",
+      "name": "Haiti",
+      "bbox": [
+        -74.478,
+        18.039,
+        -71.645,
+        20.094
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ht"
+    },
+    {
+      "id": "HU",
+      "name": "Hungary",
+      "bbox": [
+        16.093,
+        45.753,
+        22.877,
+        48.553
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "hu"
+    },
+    {
+      "id": "ID",
+      "name": "Indonesia",
+      "bbox": [
+        95.207,
+        -10.91,
+        140.976,
+        5.907
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "id"
+    },
+    {
+      "id": "IE",
+      "name": "Ireland",
+      "bbox": [
+        -10.39,
+        51.474,
+        -6.027,
+        55.366
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ie"
+    },
+    {
+      "id": "IL",
+      "name": "Israel",
+      "bbox": [
+        34.245,
+        29.477,
+        35.913,
+        33.432
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "il"
+    },
+    {
+      "id": "IM",
+      "name": "Isle of Man",
+      "bbox": [
+        -4.785,
+        54.059,
+        -4.338,
+        54.407
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "im"
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "bbox": [
+        68.165,
+        6.749,
+        97.344,
+        35.496
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "in"
+    },
+    {
+      "id": "IO",
+      "name": "British Indian Ocean Territory",
+      "bbox": [
+        72.35,
+        -7.435,
+        72.499,
+        -7.22
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "io"
+    },
+    {
+      "id": "IQ",
+      "name": "Iraq",
+      "bbox": [
+        38.774,
+        29.064,
+        48.546,
+        37.372
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "iq"
+    },
+    {
+      "id": "IR",
+      "name": "Iran, Islamic Republic of",
+      "bbox": [
+        44.023,
+        25.102,
+        63.305,
+        39.769
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ir"
+    },
+    {
+      "id": "IS",
+      "name": "Iceland",
+      "bbox": [
+        -24.476,
+        63.407,
+        -13.556,
+        66.526
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "is"
+    },
+    {
+      "id": "IT",
+      "name": "Italy",
+      "bbox": [
+        6.628,
+        35.487,
+        18.486,
+        47.082
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "it"
+    },
+    {
+      "id": "JE",
+      "name": "Jersey",
+      "bbox": [
+        -2.236,
+        49.17,
+        -2.01,
+        49.266
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "je"
+    },
+    {
+      "id": "JM",
+      "name": "Jamaica",
+      "bbox": [
+        -78.34,
+        17.715,
+        -76.211,
+        18.522
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "jm"
+    },
+    {
+      "id": "JO",
+      "name": "Jordan",
+      "bbox": [
+        34.951,
+        29.19,
+        39.293,
+        33.372
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "jo"
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "bbox": [
+        123.68,
+        24.266,
+        145.833,
+        45.51
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "jp"
+    },
+    {
+      "id": "KE",
+      "name": "Kenya",
+      "bbox": [
+        33.9,
+        -4.692,
+        41.884,
+        5.492
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ke"
+    },
+    {
+      "id": "KG",
+      "name": "Kyrgyzstan",
+      "bbox": [
+        69.229,
+        39.208,
+        80.246,
+        43.24
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kg"
+    },
+    {
+      "id": "KH",
+      "name": "Cambodia",
+      "bbox": [
+        102.32,
+        10.411,
+        107.605,
+        14.705
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kh"
+    },
+    {
+      "id": "KI",
+      "name": "Kiribati",
+      "bbox": [
+        -174.541,
+        -11.457,
+        174.779,
+        3.924
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ki"
+    },
+    {
+      "id": "KM",
+      "name": "Comoros",
+      "bbox": [
+        43.227,
+        -12.368,
+        44.527,
+        -11.368
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "km"
+    },
+    {
+      "id": "KN",
+      "name": "Saint Kitts and Nevis",
+      "bbox": [
+        -62.84,
+        17.101,
+        -62.532,
+        17.403
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kn"
+    },
+    {
+      "id": "KP",
+      "name": "Korea, Democratic People's Republic of",
+      "bbox": [
+        124.349,
+        37.719,
+        130.687,
+        42.998
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kp"
+    },
+    {
+      "id": "KR",
+      "name": "Korea, Republic of",
+      "bbox": [
+        126.008,
+        33.202,
+        130.934,
+        38.623
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kr"
+    },
+    {
+      "id": "KW",
+      "name": "Kuwait",
+      "bbox": [
+        46.531,
+        28.533,
+        48.442,
+        30.097
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kw"
+    },
+    {
+      "id": "KY",
+      "name": "Cayman Islands",
+      "bbox": [
+        -81.419,
+        19.272,
+        -79.742,
+        19.766
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ky"
+    },
+    {
+      "id": "KZ",
+      "name": "Kazakhstan",
+      "bbox": [
+        46.609,
+        40.609,
+        87.323,
+        55.39
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "kz"
+    },
+    {
+      "id": "LA",
+      "name": "Lao People's Democratic Republic",
+      "bbox": [
+        100.115,
+        13.921,
+        107.653,
+        22.495
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "la"
+    },
+    {
+      "id": "LB",
+      "name": "Lebanon",
+      "bbox": [
+        35.109,
+        33.076,
+        36.585,
+        34.679
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lb"
+    },
+    {
+      "id": "LC",
+      "name": "Saint Lucia",
+      "bbox": [
+        -61.073,
+        13.718,
+        -60.887,
+        14.093
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lc"
+    },
+    {
+      "id": "LI",
+      "name": "Liechtenstein",
+      "bbox": [
+        9.479,
+        47.057,
+        9.611,
+        47.271
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "li"
+    },
+    {
+      "id": "LK",
+      "name": "Sri Lanka",
+      "bbox": [
+        79.708,
+        5.949,
+        81.877,
+        9.813
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lk"
+    },
+    {
+      "id": "LR",
+      "name": "Liberia",
+      "bbox": [
+        -11.508,
+        4.351,
+        -7.4,
+        8.538
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lr"
+    },
+    {
+      "id": "LS",
+      "name": "Lesotho",
+      "bbox": [
+        27.052,
+        -30.642,
+        29.391,
+        -28.582
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ls"
+    },
+    {
+      "id": "LT",
+      "name": "Lithuania",
+      "bbox": [
+        20.9,
+        53.893,
+        26.776,
+        56.411
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lt"
+    },
+    {
+      "id": "LU",
+      "name": "Luxembourg",
+      "bbox": [
+        5.725,
+        49.445,
+        6.494,
+        50.167
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lu"
+    },
+    {
+      "id": "LV",
+      "name": "Latvia",
+      "bbox": [
+        21.015,
+        55.668,
+        28.202,
+        58.063
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "lv"
+    },
+    {
+      "id": "LY",
+      "name": "Libya",
+      "bbox": [
+        9.31,
+        19.497,
+        25.15,
+        33.182
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ly"
+    },
+    {
+      "id": "MA",
+      "name": "Morocco",
+      "bbox": [
+        -17.003,
+        21.421,
+        -1.066,
+        35.93
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ma"
+    },
+    {
+      "id": "MC",
+      "name": "Monaco",
+      "bbox": [
+        7.378,
+        43.732,
+        7.439,
+        43.771
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mc"
+    },
+    {
+      "id": "MD",
+      "name": "Moldova, Republic of",
+      "bbox": [
+        26.619,
+        45.45,
+        30.131,
+        48.478
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "md"
+    },
+    {
+      "id": "ME",
+      "name": "Montenegro",
+      "bbox": [
+        18.436,
+        41.869,
+        20.348,
+        43.542
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "me"
+    },
+    {
+      "id": "MF",
+      "name": "Saint Martin (French part)",
+      "bbox": [
+        -63.123,
+        18.069,
+        -63.009,
+        18.115
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mf"
+    },
+    {
+      "id": "MG",
+      "name": "Madagascar",
+      "bbox": [
+        43.257,
+        -25.571,
+        50.483,
+        -12.08
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mg"
+    },
+    {
+      "id": "MH",
+      "name": "Marshall Islands",
+      "bbox": [
+        166.845,
+        5.8,
+        171.757,
+        11.169
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mh"
+    },
+    {
+      "id": "MK",
+      "name": "North Macedonia",
+      "bbox": [
+        20.449,
+        40.85,
+        23.006,
+        42.358
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mk"
+    },
+    {
+      "id": "ML",
+      "name": "Mali",
+      "bbox": [
+        -12.281,
+        10.143,
+        4.235,
+        24.996
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ml"
+    },
+    {
+      "id": "MM",
+      "name": "Myanmar",
+      "bbox": [
+        92.18,
+        9.875,
+        101.147,
+        28.517
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mm"
+    },
+    {
+      "id": "MN",
+      "name": "Mongolia",
+      "bbox": [
+        87.743,
+        41.596,
+        119.898,
+        52.117
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mn"
+    },
+    {
+      "id": "MO",
+      "name": "Macao",
+      "bbox": [
+        113.479,
+        22.196,
+        113.548,
+        22.246
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mo"
+    },
+    {
+      "id": "MP",
+      "name": "Northern Mariana Islands",
+      "bbox": [
+        145.152,
+        14.111,
+        145.835,
+        18.807
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mp"
+    },
+    {
+      "id": "MQ",
+      "name": "Martinique",
+      "bbox": [
+        -61.22,
+        14.426,
+        -60.826,
+        14.875
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mq"
+    },
+    {
+      "id": "MR",
+      "name": "Mauritania",
+      "bbox": [
+        -17.064,
+        14.745,
+        -4.823,
+        27.286
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mr"
+    },
+    {
+      "id": "MS",
+      "name": "Montserrat",
+      "bbox": [
+        -62.223,
+        16.681,
+        -62.148,
+        16.81
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ms"
+    },
+    {
+      "id": "MT",
+      "name": "Malta",
+      "bbox": [
+        14.18,
+        35.82,
+        14.566,
+        36.076
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mt"
+    },
+    {
+      "id": "MU",
+      "name": "Mauritius",
+      "bbox": [
+        57.318,
+        -20.513,
+        57.792,
+        -19.99
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mu"
+    },
+    {
+      "id": "MV",
+      "name": "Maldives",
+      "bbox": [
+        73.382,
+        3.229,
+        73.528,
+        4.248
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mv"
+    },
+    {
+      "id": "MW",
+      "name": "Malawi",
+      "bbox": [
+        32.67,
+        -17.131,
+        35.893,
+        -9.395
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mw"
+    },
+    {
+      "id": "MX",
+      "name": "Mexico",
+      "bbox": [
+        -118.401,
+        14.545,
+        -86.696,
+        32.715
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mx"
+    },
+    {
+      "id": "MY",
+      "name": "Malaysia",
+      "bbox": [
+        99.646,
+        0.862,
+        119.266,
+        7.352
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "my"
+    },
+    {
+      "id": "MZ",
+      "name": "Mozambique",
+      "bbox": [
+        30.222,
+        -26.862,
+        40.845,
+        -10.464
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "mz"
+    },
+    {
+      "id": "NA",
+      "name": "Namibia",
+      "bbox": [
+        11.722,
+        -28.939,
+        25.259,
+        -16.968
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "na"
+    },
+    {
+      "id": "NC",
+      "name": "New Caledonia",
+      "bbox": [
+        159.928,
+        -22.661,
+        168.139,
+        -19.115
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nc"
+    },
+    {
+      "id": "NE",
+      "name": "Niger",
+      "bbox": [
+        0.164,
+        11.696,
+        15.963,
+        23.518
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ne"
+    },
+    {
+      "id": "NF",
+      "name": "Norfolk Island",
+      "bbox": [
+        167.906,
+        -29.096,
+        167.99,
+        -29.014
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nf"
+    },
+    {
+      "id": "NG",
+      "name": "Nigeria",
+      "bbox": [
+        2.686,
+        4.277,
+        14.627,
+        13.873
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ng"
+    },
+    {
+      "id": "NI",
+      "name": "Nicaragua",
+      "bbox": [
+        -87.67,
+        10.735,
+        -83.158,
+        15.008
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ni"
+    },
+    {
+      "id": "NL",
+      "name": "Netherlands",
+      "bbox": [
+        3.133,
+        50.75,
+        7.217,
+        53.683
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nl"
+    },
+    {
+      "id": "NO",
+      "name": "Norway",
+      "bbox": [
+        -9.099,
+        58.021,
+        30.961,
+        71.178
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "no"
+    },
+    {
+      "id": "NP",
+      "name": "Nepal",
+      "bbox": [
+        80.052,
+        26.36,
+        88.162,
+        30.387
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "np"
+    },
+    {
+      "id": "NR",
+      "name": "Naoero",
+      "bbox": [
+        166.907,
+        -0.551,
+        166.958,
+        -0.489
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nr"
+    },
+    {
+      "id": "NU",
+      "name": "Niue",
+      "bbox": [
+        -169.948,
+        -19.138,
+        -169.793,
+        -18.966
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nu"
+    },
+    {
+      "id": "NZ",
+      "name": "New Zealand",
+      "bbox": [
+        -176.848,
+        -52.57,
+        178.536,
+        -34.429
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "nz"
+    },
+    {
+      "id": "OM",
+      "name": "Oman",
+      "bbox": [
+        51.978,
+        16.648,
+        59.837,
+        26.356
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "om"
+    },
+    {
+      "id": "PA",
+      "name": "Panama",
+      "bbox": [
+        -83.027,
+        7.22,
+        -77.196,
+        9.598
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pa"
+    },
+    {
+      "id": "PE",
+      "name": "Peru",
+      "bbox": [
+        -81.337,
+        -18.346,
+        -68.685,
+        -0.042
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pe"
+    },
+    {
+      "id": "PF",
+      "name": "French Polynesia",
+      "bbox": [
+        -151.512,
+        -20.876,
+        -136.294,
+        -8.782
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pf"
+    },
+    {
+      "id": "PG",
+      "name": "Papua New Guinea",
+      "bbox": [
+        140.862,
+        -11.631,
+        155.958,
+        -1.353
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pg"
+    },
+    {
+      "id": "PH",
+      "name": "Philippines",
+      "bbox": [
+        116.97,
+        5.06,
+        126.593,
+        20.841
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ph"
+    },
+    {
+      "id": "PK",
+      "name": "Pakistan",
+      "bbox": [
+        60.843,
+        23.753,
+        77.049,
+        37.037
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pk"
+    },
+    {
+      "id": "PL",
+      "name": "Poland",
+      "bbox": [
+        14.129,
+        49.021,
+        24.106,
+        54.838
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pl"
+    },
+    {
+      "id": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "bbox": [
+        -56.387,
+        46.753,
+        -56.137,
+        47.099
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pm"
+    },
+    {
+      "id": "PN",
+      "name": "Pitcairn",
+      "bbox": [
+        -128.35,
+        -24.413,
+        -128.29,
+        -24.323
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pn"
+    },
+    {
+      "id": "PR",
+      "name": "Puerto Rico",
+      "bbox": [
+        -67.937,
+        17.947,
+        -65.295,
+        18.522
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pr"
+    },
+    {
+      "id": "PS",
+      "name": "Palestine, State of",
+      "bbox": [
+        34.198,
+        31.208,
+        35.572,
+        32.534
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ps"
+    },
+    {
+      "id": "PT",
+      "name": "Portugal",
+      "bbox": [
+        -31.283,
+        32.4,
+        -6.213,
+        42.137
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pt"
+    },
+    {
+      "id": "PW",
+      "name": "Palau",
+      "bbox": [
+        131.135,
+        3.022,
+        134.66,
+        7.712
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "pw"
+    },
+    {
+      "id": "PY",
+      "name": "Paraguay",
+      "bbox": [
+        -62.651,
+        -27.554,
+        -54.242,
+        -19.286
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "py"
+    },
+    {
+      "id": "QA",
+      "name": "Qatar",
+      "bbox": [
+        50.755,
+        24.565,
+        51.609,
+        26.153
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "qa"
+    },
+    {
+      "id": "RE",
+      "name": "R\u00e9union",
+      "bbox": [
+        55.233,
+        -21.369,
+        55.839,
+        -20.865
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "re"
+    },
+    {
+      "id": "RO",
+      "name": "Romania",
+      "bbox": [
+        20.242,
+        43.671,
+        29.706,
+        48.263
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ro"
+    },
+    {
+      "id": "RS",
+      "name": "Serbia",
+      "bbox": [
+        18.839,
+        41.854,
+        22.977,
+        46.169
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "rs"
+    },
+    {
+      "id": "RU",
+      "name": "Russian Federation",
+      "bbox": [
+        -180.0,
+        41.199,
+        180.0,
+        81.854
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ru"
+    },
+    {
+      "id": "RW",
+      "name": "Rwanda",
+      "bbox": [
+        28.858,
+        -2.809,
+        30.877,
+        -1.063
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "rw"
+    },
+    {
+      "id": "SA",
+      "name": "Saudi Arabia",
+      "bbox": [
+        34.616,
+        16.372,
+        55.641,
+        32.125
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sa"
+    },
+    {
+      "id": "SB",
+      "name": "Solomon Islands",
+      "bbox": [
+        155.678,
+        -11.832,
+        166.929,
+        -6.609
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sb"
+    },
+    {
+      "id": "SC",
+      "name": "Seychelles",
+      "bbox": [
+        55.383,
+        -4.786,
+        55.543,
+        -4.559
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sc"
+    },
+    {
+      "id": "SD",
+      "name": "Sudan",
+      "bbox": [
+        21.825,
+        8.666,
+        38.609,
+        22.202
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sd"
+    },
+    {
+      "id": "SE",
+      "name": "Sweden",
+      "bbox": [
+        11.147,
+        55.346,
+        24.155,
+        69.037
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "se"
+    },
+    {
+      "id": "SG",
+      "name": "Singapore",
+      "bbox": [
+        103.65,
+        1.265,
+        103.996,
+        1.447
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sg"
+    },
+    {
+      "id": "SH",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "bbox": [
+        -14.415,
+        -16.004,
+        -5.66,
+        -7.883
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sh"
+    },
+    {
+      "id": "SI",
+      "name": "Slovenia",
+      "bbox": [
+        13.378,
+        45.428,
+        16.516,
+        46.863
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "si"
+    },
+    {
+      "id": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "bbox": [
+        10.558,
+        74.352,
+        33.629,
+        80.478
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sj"
+    },
+    {
+      "id": "SK",
+      "name": "Slovakia",
+      "bbox": [
+        16.863,
+        47.763,
+        22.539,
+        49.598
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sk"
+    },
+    {
+      "id": "SL",
+      "name": "Sierra Leone",
+      "bbox": [
+        -13.293,
+        6.907,
+        -10.283,
+        9.997
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sl"
+    },
+    {
+      "id": "SM",
+      "name": "San Marino",
+      "bbox": [
+        12.397,
+        43.894,
+        12.515,
+        43.99
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sm"
+    },
+    {
+      "id": "SN",
+      "name": "Senegal",
+      "bbox": [
+        -17.536,
+        12.328,
+        -11.382,
+        16.679
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sn"
+    },
+    {
+      "id": "SO",
+      "name": "Somalia",
+      "bbox": [
+        40.964,
+        -1.695,
+        51.39,
+        11.984
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "so"
+    },
+    {
+      "id": "SR",
+      "name": "Suriname",
+      "bbox": [
+        -58.054,
+        1.842,
+        -53.99,
+        5.993
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sr"
+    },
+    {
+      "id": "SS",
+      "name": "South Sudan",
+      "bbox": [
+        24.147,
+        3.491,
+        35.268,
+        12.223
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ss"
+    },
+    {
+      "id": "ST",
+      "name": "Sao Tome and Principe",
+      "bbox": [
+        6.468,
+        0.047,
+        7.452,
+        1.699
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "st"
+    },
+    {
+      "id": "SV",
+      "name": "El Salvador",
+      "bbox": [
+        -90.106,
+        13.164,
+        -87.715,
+        14.431
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sv"
+    },
+    {
+      "id": "SX",
+      "name": "Sint Maarten (Dutch part)",
+      "bbox": [
+        -63.125,
+        18.019,
+        -63.011,
+        18.069
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sx"
+    },
+    {
+      "id": "SY",
+      "name": "Syrian Arab Republic",
+      "bbox": [
+        35.764,
+        32.317,
+        42.359,
+        37.297
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sy"
+    },
+    {
+      "id": "SZ",
+      "name": "Eswatini",
+      "bbox": [
+        30.788,
+        -27.31,
+        32.113,
+        -25.743
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "sz"
+    },
+    {
+      "id": "TC",
+      "name": "Turks and Caicos Islands",
+      "bbox": [
+        -72.342,
+        21.752,
+        -71.637,
+        21.952
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tc"
+    },
+    {
+      "id": "TD",
+      "name": "Chad",
+      "bbox": [
+        13.448,
+        7.475,
+        23.983,
+        23.445
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "td"
+    },
+    {
+      "id": "TF",
+      "name": "French Southern Territories",
+      "bbox": [
+        51.659,
+        -49.71,
+        70.555,
+        -46.327
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tf"
+    },
+    {
+      "id": "TG",
+      "name": "Togo",
+      "bbox": [
+        -0.09,
+        6.089,
+        1.778,
+        11.116
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tg"
+    },
+    {
+      "id": "TH",
+      "name": "Thailand",
+      "bbox": [
+        97.374,
+        5.637,
+        105.641,
+        20.424
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "th"
+    },
+    {
+      "id": "TJ",
+      "name": "Tajikistan",
+      "bbox": [
+        67.35,
+        36.684,
+        75.119,
+        41.035
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tj"
+    },
+    {
+      "id": "TK",
+      "name": "Tokelau",
+      "bbox": [
+        -172.499,
+        -9.358,
+        -171.186,
+        -8.546
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tk"
+    },
+    {
+      "id": "TL",
+      "name": "Timor-Leste",
+      "bbox": [
+        124.036,
+        -9.512,
+        127.296,
+        -8.14
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tl"
+    },
+    {
+      "id": "TM",
+      "name": "Turkmenistan",
+      "bbox": [
+        52.494,
+        35.171,
+        66.629,
+        42.778
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tm"
+    },
+    {
+      "id": "TN",
+      "name": "Tunisia",
+      "bbox": [
+        7.496,
+        30.229,
+        11.536,
+        37.34
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tn"
+    },
+    {
+      "id": "TO",
+      "name": "Tonga",
+      "bbox": [
+        -175.362,
+        -21.451,
+        -173.922,
+        -18.565
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "to"
+    },
+    {
+      "id": "TR",
+      "name": "T\u00fcrkiye",
+      "bbox": [
+        25.669,
+        35.831,
+        44.817,
+        42.093
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tr"
+    },
+    {
+      "id": "TT",
+      "name": "Trinidad and Tobago",
+      "bbox": [
+        -61.906,
+        10.065,
+        -60.525,
+        11.325
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tt"
+    },
+    {
+      "id": "TV",
+      "name": "Tuvalu",
+      "bbox": [
+        176.7,
+        -12.7,
+        180.0,
+        -5.4
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tv"
+    },
+    {
+      "id": "TW",
+      "name": "Taiwan, Province of China",
+      "bbox": [
+        118.287,
+        21.925,
+        121.929,
+        25.277
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tw"
+    },
+    {
+      "id": "TZ",
+      "name": "Tanzania, United Republic of",
+      "bbox": [
+        29.323,
+        -11.716,
+        40.464,
+        -0.995
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "tz"
+    },
+    {
+      "id": "UA",
+      "name": "Ukraine",
+      "bbox": [
+        22.132,
+        44.388,
+        40.128,
+        52.354
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ua"
+    },
+    {
+      "id": "UG",
+      "name": "Uganda",
+      "bbox": [
+        29.562,
+        -1.47,
+        34.978,
+        4.22
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ug"
+    },
+    {
+      "id": "US",
+      "name": "United States of America",
+      "bbox": [
+        -178.195,
+        18.964,
+        179.78,
+        71.408
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "us"
+    },
+    {
+      "id": "UY",
+      "name": "Uruguay",
+      "bbox": [
+        -58.438,
+        -34.933,
+        -53.126,
+        -30.101
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "uy"
+    },
+    {
+      "id": "UZ",
+      "name": "Uzbekistan",
+      "bbox": [
+        55.976,
+        37.172,
+        73.137,
+        45.555
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "uz"
+    },
+    {
+      "id": "VA",
+      "name": "Holy See",
+      "bbox": [
+        12.428,
+        41.898,
+        12.439,
+        41.906
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "va"
+    },
+    {
+      "id": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "bbox": [
+        -61.354,
+        12.695,
+        -61.124,
+        13.359
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "vc"
+    },
+    {
+      "id": "VE",
+      "name": "Venezuela, Bolivarian Republic of",
+      "bbox": [
+        -73.366,
+        0.688,
+        -59.829,
+        12.178
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ve"
+    },
+    {
+      "id": "VG",
+      "name": "Virgin Islands, British",
+      "bbox": [
+        -64.695,
+        18.399,
+        -64.274,
+        18.753
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "vg"
+    },
+    {
+      "id": "VI",
+      "name": "Virgin Islands, U.S.",
+      "bbox": [
+        -65.024,
+        17.702,
+        -64.58,
+        18.385
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "vi"
+    },
+    {
+      "id": "VN",
+      "name": "Viet Nam",
+      "bbox": [
+        102.127,
+        8.583,
+        109.445,
+        23.345
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "vn"
+    },
+    {
+      "id": "VU",
+      "name": "Vanuatu",
+      "bbox": [
+        166.526,
+        -20.242,
+        169.896,
+        -13.709
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "vu"
+    },
+    {
+      "id": "WF",
+      "name": "Wallis and Futuna",
+      "bbox": [
+        -178.194,
+        -14.325,
+        -176.128,
+        -13.222
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "wf"
+    },
+    {
+      "id": "WS",
+      "name": "Samoa",
+      "bbox": [
+        -172.779,
+        -14.047,
+        -171.45,
+        -13.465
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ws"
+    },
+    {
+      "id": "YE",
+      "name": "Yemen",
+      "bbox": [
+        42.549,
+        12.319,
+        54.511,
+        18.996
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "ye"
+    },
+    {
+      "id": "YT",
+      "name": "Mayotte",
+      "bbox": [
+        45.043,
+        -12.985,
+        45.223,
+        -12.653
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "yt"
+    },
+    {
+      "id": "ZA",
+      "name": "South Africa",
+      "bbox": [
+        16.448,
+        -46.963,
+        37.888,
+        -22.146
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "za"
+    },
+    {
+      "id": "ZM",
+      "name": "Zambia",
+      "bbox": [
+        21.979,
+        -18.042,
+        33.662,
+        -8.194
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "zm"
+    },
+    {
+      "id": "ZW",
+      "name": "Zimbabwe",
+      "bbox": [
+        25.224,
+        -22.402,
+        33.007,
+        -15.643
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "zw"
+    }
+  ]
+}
