@@ -3335,10 +3335,722 @@
         179.78,
         71.408
       ],
-      "published": false,
-      "tag": "osm-data",
-      "file": "us",
-      "updatedAt": null
+      "subRegions": [
+        {
+          "id": "us-al",
+          "name": "Alabama",
+          "bbox": [
+            -88.487,
+            30.223,
+            -84.897,
+            35.01
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-al",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ak",
+          "name": "Alaska",
+          "bbox": [
+            172.476,
+            51.215,
+            -129.989,
+            71.413
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ak",
+          "updatedAt": null
+        },
+        {
+          "id": "us-az",
+          "name": "Arizona",
+          "bbox": [
+            -114.823,
+            31.327,
+            -109.046,
+            37.004
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-az",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ar",
+          "name": "Arkansas",
+          "bbox": [
+            -94.619,
+            33.01,
+            -89.667,
+            36.5
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ar",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ca",
+          "name": "California",
+          "bbox": [
+            -124.41,
+            32.531,
+            -114.119,
+            42.0
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ca",
+          "updatedAt": null
+        },
+        {
+          "id": "us-co",
+          "name": "Colorado",
+          "bbox": [
+            -109.047,
+            36.999,
+            -102.039,
+            41.0
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-co",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ct",
+          "name": "Connecticut",
+          "bbox": [
+            -73.723,
+            41.001,
+            -71.795,
+            42.055
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ct",
+          "updatedAt": null
+        },
+        {
+          "id": "us-de",
+          "name": "Delaware",
+          "bbox": [
+            -75.789,
+            38.453,
+            -75.043,
+            39.839
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-de",
+          "updatedAt": null
+        },
+        {
+          "id": "us-dc",
+          "name": "District of Columbia",
+          "bbox": [
+            -77.12,
+            38.802,
+            -76.909,
+            38.997
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-dc",
+          "updatedAt": null
+        },
+        {
+          "id": "us-fl",
+          "name": "Florida",
+          "bbox": [
+            -87.627,
+            24.542,
+            -80.032,
+            31.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-fl",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ga",
+          "name": "Georgia",
+          "bbox": [
+            -85.606,
+            30.362,
+            -80.835,
+            35.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ga",
+          "updatedAt": null
+        },
+        {
+          "id": "us-hi",
+          "name": "Hawaii",
+          "bbox": [
+            -160.249,
+            18.906,
+            -154.814,
+            22.236
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-hi",
+          "updatedAt": null
+        },
+        {
+          "id": "us-id",
+          "name": "Idaho",
+          "bbox": [
+            -117.216,
+            41.999,
+            -111.05,
+            48.993
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-id",
+          "updatedAt": null
+        },
+        {
+          "id": "us-il",
+          "name": "Illinois",
+          "bbox": [
+            -91.519,
+            36.978,
+            -87.018,
+            42.512
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-il",
+          "updatedAt": null
+        },
+        {
+          "id": "us-in",
+          "name": "Indiana",
+          "bbox": [
+            -88.112,
+            37.781,
+            -84.783,
+            41.76
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-in",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ia",
+          "name": "Iowa",
+          "bbox": [
+            -96.638,
+            40.379,
+            -90.14,
+            43.501
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ia",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ks",
+          "name": "Kansas",
+          "bbox": [
+            -102.052,
+            36.999,
+            -94.61,
+            40.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ks",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ky",
+          "name": "Kentucky",
+          "bbox": [
+            -89.578,
+            36.498,
+            -81.965,
+            39.147
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ky",
+          "updatedAt": null
+        },
+        {
+          "id": "us-la",
+          "name": "Louisiana",
+          "bbox": [
+            -94.044,
+            28.928,
+            -88.81,
+            33.015
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-la",
+          "updatedAt": null
+        },
+        {
+          "id": "us-me",
+          "name": "Maine",
+          "bbox": [
+            -71.085,
+            43.083,
+            -66.977,
+            47.46
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-me",
+          "updatedAt": null
+        },
+        {
+          "id": "us-md",
+          "name": "Maryland",
+          "bbox": [
+            -79.488,
+            37.931,
+            -75.043,
+            39.722
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-md",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ma",
+          "name": "Massachusetts",
+          "bbox": [
+            -73.508,
+            41.239,
+            -69.924,
+            42.887
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ma",
+          "updatedAt": null
+        },
+        {
+          "id": "us-mi",
+          "name": "Michigan",
+          "bbox": [
+            -90.413,
+            41.696,
+            -82.145,
+            48.306
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-mi",
+          "updatedAt": null
+        },
+        {
+          "id": "us-mn",
+          "name": "Minnesota",
+          "bbox": [
+            -97.23,
+            43.5,
+            -89.498,
+            49.37
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-mn",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ms",
+          "name": "Mississippi",
+          "bbox": [
+            -91.658,
+            30.181,
+            -88.088,
+            35.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ms",
+          "updatedAt": null
+        },
+        {
+          "id": "us-mo",
+          "name": "Missouri",
+          "bbox": [
+            -95.774,
+            35.986,
+            -89.118,
+            40.619
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-mo",
+          "updatedAt": null
+        },
+        {
+          "id": "us-mt",
+          "name": "Montana",
+          "bbox": [
+            -116.049,
+            44.376,
+            -104.038,
+            48.993
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-mt",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ne",
+          "name": "Nebraska",
+          "bbox": [
+            -104.054,
+            40.0,
+            -95.317,
+            43.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ne",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nv",
+          "name": "Nevada",
+          "bbox": [
+            -120.001,
+            35.003,
+            -114.04,
+            42.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nv",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nh",
+          "name": "New Hampshire",
+          "bbox": [
+            -72.557,
+            42.7,
+            -70.704,
+            45.305
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nh",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nj",
+          "name": "New Jersey",
+          "bbox": [
+            -75.559,
+            38.924,
+            -73.907,
+            41.357
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nj",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nm",
+          "name": "New Mexico",
+          "bbox": [
+            -109.048,
+            31.327,
+            -103.0,
+            37.0
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nm",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ny",
+          "name": "New York",
+          "bbox": [
+            -79.764,
+            40.499,
+            -71.857,
+            45.011
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ny",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nc",
+          "name": "North Carolina",
+          "bbox": [
+            -84.325,
+            33.847,
+            -75.451,
+            36.61
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nc",
+          "updatedAt": null
+        },
+        {
+          "id": "us-nd",
+          "name": "North Dakota",
+          "bbox": [
+            -104.048,
+            45.941,
+            -96.556,
+            48.993
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-nd",
+          "updatedAt": null
+        },
+        {
+          "id": "us-oh",
+          "name": "Ohio",
+          "bbox": [
+            -84.824,
+            38.405,
+            -80.52,
+            42.324
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-oh",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ok",
+          "name": "Oklahoma",
+          "bbox": [
+            -103.001,
+            33.647,
+            -94.439,
+            37.0
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ok",
+          "updatedAt": null
+        },
+        {
+          "id": "us-or",
+          "name": "Oregon",
+          "bbox": [
+            -124.567,
+            41.999,
+            -116.454,
+            46.256
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-or",
+          "updatedAt": null
+        },
+        {
+          "id": "us-pa",
+          "name": "Pennsylvania",
+          "bbox": [
+            -80.521,
+            39.721,
+            -74.698,
+            42.538
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-pa",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ri",
+          "name": "Rhode Island",
+          "bbox": [
+            -71.878,
+            41.145,
+            -71.121,
+            42.017
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ri",
+          "updatedAt": null
+        },
+        {
+          "id": "us-sc",
+          "name": "South Carolina",
+          "bbox": [
+            -83.356,
+            32.032,
+            -78.573,
+            35.219
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-sc",
+          "updatedAt": null
+        },
+        {
+          "id": "us-sd",
+          "name": "South Dakota",
+          "bbox": [
+            -104.057,
+            42.518,
+            -96.453,
+            45.943
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-sd",
+          "updatedAt": null
+        },
+        {
+          "id": "us-tn",
+          "name": "Tennessee",
+          "bbox": [
+            -90.313,
+            34.983,
+            -81.658,
+            36.69
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-tn",
+          "updatedAt": null
+        },
+        {
+          "id": "us-tx",
+          "name": "Texas",
+          "bbox": [
+            -106.663,
+            25.843,
+            -93.514,
+            36.501
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-tx",
+          "updatedAt": null
+        },
+        {
+          "id": "us-ut",
+          "name": "Utah",
+          "bbox": [
+            -114.043,
+            36.999,
+            -109.046,
+            42.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-ut",
+          "updatedAt": null
+        },
+        {
+          "id": "us-vt",
+          "name": "Vermont",
+          "bbox": [
+            -73.439,
+            42.729,
+            -71.505,
+            45.014
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-vt",
+          "updatedAt": null
+        },
+        {
+          "id": "us-va",
+          "name": "Virginia",
+          "bbox": [
+            -83.668,
+            36.539,
+            -75.243,
+            39.451
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-va",
+          "updatedAt": null
+        },
+        {
+          "id": "us-wa",
+          "name": "Washington",
+          "bbox": [
+            -124.735,
+            45.566,
+            -116.878,
+            48.993
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-wa",
+          "updatedAt": null
+        },
+        {
+          "id": "us-wv",
+          "name": "West Virginia",
+          "bbox": [
+            -82.638,
+            37.204,
+            -77.734,
+            40.647
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-wv",
+          "updatedAt": null
+        },
+        {
+          "id": "us-wi",
+          "name": "Wisconsin",
+          "bbox": [
+            -92.902,
+            42.491,
+            -86.25,
+            47.309
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-wi",
+          "updatedAt": null
+        },
+        {
+          "id": "us-wy",
+          "name": "Wyoming",
+          "bbox": [
+            -111.052,
+            40.999,
+            -104.052,
+            45.001
+          ],
+          "published": false,
+          "tag": "osm-data",
+          "file": "us-wy",
+          "updatedAt": null
+        }
+      ]
     },
     {
       "id": "UY",
