@@ -29,7 +29,7 @@ its sub-regions are downloadable.
       "subRegions": [
         { "id": "au-nsw-act", "name": "...", "bbox": [...],
           "published": true, "approxSizeMB": 563,
-          "tag": "osm-data", "file": "nsw-act",
+          "tag": "osm-data", "file": "au-nsw-act",
           "updatedAt": "2026-09-21T07:14:06Z" }
       ]
     },
@@ -75,12 +75,14 @@ rectangles when downloading. Some flat, still-unpublished countries
 (Russia, Fiji, ...) still carry an older ~360°-wide box instead, which
 the app refuses to download until they're regenerated the same way.
 
-**File names share one namespace** (one release holds every region's
-files), so new splits prefix the country: `us-wa`, not `wa` -- a bare
-`wa` is already Western Australia. Australia keeps its historical bare
-names. Known legacy collision: Saudi Arabia (`SA`, unpublished) has
-`file: "sa"`, the same as South Australia -- rename one before Saudi
-Arabia's data is ever published.
+**File names use the country's internet (ccTLD) code** (2026-09-27):
+a whole country is just its code (`fr`, `nz`), a split country's regions
+are `<code>-<region>` (`au-nsw-act`, `us-wa`). One release holds every
+region's files, so the prefix is what keeps Western Australia (`au-wa`)
+apart from Washington (`us-wa`), and South Australia (`au-sa`) apart
+from Saudi Arabia (`sa`). It's the ccTLD, not the ISO code: the United
+Kingdom's `id` is ISO `GB` but its file is `uk`. `id` stays the ISO code
+(the app's own key); only `file` follows this rule.
 
 Every country worldwide (~247, from Natural Earth admin-0 boundaries)
 is listed, almost all `published: false` — there's no worldwide OSM
