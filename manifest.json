@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T00:08:40Z",
+  "generatedAt": "2026-09-28T00:14:20Z",
   "baseURL": "https://github.com/outdevnull/aeryx-data/releases/download",
   "countries": [
     {
@@ -4204,6 +4204,20 @@
       "published": false,
       "tag": "osm-data",
       "file": "ws",
+      "updatedAt": null
+    },
+    {
+      "id": "XK",
+      "name": "Kosovo",
+      "bbox": [
+        20.024,
+        41.844,
+        21.773,
+        43.264
+      ],
+      "published": false,
+      "tag": "osm-data",
+      "file": "xk",
       "updatedAt": null
     },
     {
