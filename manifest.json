@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T00:14:20Z",
+  "generatedAt": "2026-09-28T00:16:39Z",
   "baseURL": "https://github.com/outdevnull/aeryx-data/releases/download",
   "countries": [
     {
@@ -1167,7 +1167,7 @@
       ],
       "published": false,
       "tag": "osm-data",
-      "file": "uk",
+      "file": "gb",
       "updatedAt": null
     },
     {
