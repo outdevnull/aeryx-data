@@ -194,7 +194,7 @@
           "approxSizeMB": 563,
           "tag": "osm-data",
           "file": "au-nsw-act",
-          "updatedAt": "2026-09-28T01:15:00Z"
+          "updatedAt": "2026-10-01T10:46:29Z"
         },
         {
           "id": "au-vic",
@@ -209,7 +209,7 @@
           "approxSizeMB": 599,
           "tag": "osm-data",
           "file": "au-vic",
-          "updatedAt": "2026-09-28T01:14:54Z"
+          "updatedAt": "2026-10-01T10:46:27Z"
         },
         {
           "id": "au-qld",
@@ -224,7 +224,7 @@
           "approxSizeMB": 306,
           "tag": "osm-data",
           "file": "au-qld",
-          "updatedAt": "2026-09-28T01:14:46Z"
+          "updatedAt": "2026-10-01T10:46:22Z"
         },
         {
           "id": "au-sa",
@@ -239,7 +239,7 @@
           "approxSizeMB": 111,
           "tag": "osm-data",
           "file": "au-sa",
-          "updatedAt": "2026-09-28T01:14:46Z"
+          "updatedAt": "2026-10-01T10:46:19Z"
         },
         {
           "id": "au-wa",
@@ -254,7 +254,7 @@
           "approxSizeMB": 179,
           "tag": "osm-data",
           "file": "au-wa",
-          "updatedAt": "2026-09-28T01:14:47Z"
+          "updatedAt": "2026-10-01T10:46:21Z"
         },
         {
           "id": "au-nt",
@@ -269,7 +269,7 @@
           "approxSizeMB": 40,
           "tag": "osm-data",
           "file": "au-nt",
-          "updatedAt": "2026-09-28T01:14:43Z"
+          "updatedAt": "2026-10-01T10:46:17Z"
         },
         {
           "id": "au-tas",
@@ -284,7 +284,7 @@
           "approxSizeMB": 72,
           "tag": "osm-data",
           "file": "au-tas",
-          "updatedAt": "2026-09-28T01:14:46Z"
+          "updatedAt": "2026-10-01T10:46:20Z"
         }
       ]
     },
