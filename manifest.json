@@ -194,7 +194,13 @@
           "approxSizeMB": 563,
           "tag": "osm-data",
           "file": "au-nsw-act",
-          "updatedAt": "2026-11-03T23:43:37Z"
+          "updatedAt": "2026-11-03T23:43:37Z",
+          "tiles": {
+            "file": "au-nsw-act.tiles.db",
+            "approxSizeMB": 624,
+            "updatedAt": "2026-11-08T02:07:10Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-vic",
@@ -209,7 +215,13 @@
           "approxSizeMB": 599,
           "tag": "osm-data",
           "file": "au-vic",
-          "updatedAt": "2026-11-03T23:37:09Z"
+          "updatedAt": "2026-11-03T23:37:09Z",
+          "tiles": {
+            "file": "au-vic.tiles.db",
+            "approxSizeMB": 423,
+            "updatedAt": "2026-11-08T02:01:01Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-qld",
@@ -224,7 +236,13 @@
           "approxSizeMB": 306,
           "tag": "osm-data",
           "file": "au-qld",
-          "updatedAt": "2026-11-03T23:40:03Z"
+          "updatedAt": "2026-11-03T23:40:03Z",
+          "tiles": {
+            "file": "au-qld.tiles.db",
+            "approxSizeMB": 615,
+            "updatedAt": "2026-11-08T02:07:02Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-sa",
@@ -239,7 +257,13 @@
           "approxSizeMB": 111,
           "tag": "osm-data",
           "file": "au-sa",
-          "updatedAt": "2026-11-03T23:32:54Z"
+          "updatedAt": "2026-11-03T23:32:54Z",
+          "tiles": {
+            "file": "au-sa.tiles.db",
+            "approxSizeMB": 291,
+            "updatedAt": "2026-11-08T01:52:42Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-wa",
@@ -254,7 +278,13 @@
           "approxSizeMB": 179,
           "tag": "osm-data",
           "file": "au-wa",
-          "updatedAt": "2026-11-03T23:33:11Z"
+          "updatedAt": "2026-11-03T23:33:11Z",
+          "tiles": {
+            "file": "au-wa.tiles.db",
+            "approxSizeMB": 568,
+            "updatedAt": "2026-11-08T02:05:50Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-nt",
@@ -269,7 +299,13 @@
           "approxSizeMB": 40,
           "tag": "osm-data",
           "file": "au-nt",
-          "updatedAt": "2026-11-03T23:30:37Z"
+          "updatedAt": "2026-11-03T23:30:37Z",
+          "tiles": {
+            "file": "au-nt.tiles.db",
+            "approxSizeMB": 176,
+            "updatedAt": "2026-11-08T01:56:12Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         },
         {
           "id": "au-tas",
@@ -284,7 +320,13 @@
           "approxSizeMB": 72,
           "tag": "osm-data",
           "file": "au-tas",
-          "updatedAt": "2026-11-03T23:32:55Z"
+          "updatedAt": "2026-11-03T23:32:55Z",
+          "tiles": {
+            "file": "au-tas.tiles.db",
+            "approxSizeMB": 116,
+            "updatedAt": "2026-11-08T01:58:35Z",
+            "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          }
         }
       ]
     },
