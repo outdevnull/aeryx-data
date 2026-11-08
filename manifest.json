@@ -195,10 +195,34 @@
           "tag": "osm-data",
           "file": "au-nsw-act",
           "updatedAt": "2026-11-03T23:43:37Z",
-          "tiles": {
-            "file": "au-nsw-act.tiles.db",
-            "approxSizeMB": 624,
-            "updatedAt": "2026-11-08T02:07:10Z",
+          "tileParts": {
+            "files": [
+              "au-nsw-act.tiles.1.db",
+              "au-nsw-act.tiles.2.db",
+              "au-nsw-act.tiles.3.db",
+              "au-nsw-act.tiles.4.db",
+              "au-nsw-act.tiles.5.db",
+              "au-nsw-act.tiles.6.db",
+              "au-nsw-act.tiles.7.db",
+              "au-nsw-act.tiles.8.db",
+              "au-nsw-act.tiles.9.db",
+              "au-nsw-act.tiles.10.db",
+              "au-nsw-act.tiles.11.db",
+              "au-nsw-act.tiles.12.db",
+              "au-nsw-act.tiles.13.db",
+              "au-nsw-act.tiles.14.db",
+              "au-nsw-act.tiles.15.db",
+              "au-nsw-act.tiles.16.db",
+              "au-nsw-act.tiles.17.db",
+              "au-nsw-act.tiles.18.db",
+              "au-nsw-act.tiles.19.db",
+              "au-nsw-act.tiles.20.db",
+              "au-nsw-act.tiles.21.db",
+              "au-nsw-act.tiles.22.db",
+              "au-nsw-act.tiles.23.db"
+            ],
+            "approxSizeMB": 774,
+            "updatedAt": "2026-11-08T06:28:43Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -216,10 +240,28 @@
           "tag": "osm-data",
           "file": "au-vic",
           "updatedAt": "2026-11-03T23:37:09Z",
-          "tiles": {
-            "file": "au-vic.tiles.db",
-            "approxSizeMB": 423,
-            "updatedAt": "2026-11-08T02:01:01Z",
+          "tileParts": {
+            "files": [
+              "au-vic.tiles.1.db",
+              "au-vic.tiles.2.db",
+              "au-vic.tiles.3.db",
+              "au-vic.tiles.4.db",
+              "au-vic.tiles.5.db",
+              "au-vic.tiles.6.db",
+              "au-vic.tiles.7.db",
+              "au-vic.tiles.8.db",
+              "au-vic.tiles.9.db",
+              "au-vic.tiles.10.db",
+              "au-vic.tiles.11.db",
+              "au-vic.tiles.12.db",
+              "au-vic.tiles.13.db",
+              "au-vic.tiles.14.db",
+              "au-vic.tiles.15.db",
+              "au-vic.tiles.16.db",
+              "au-vic.tiles.17.db"
+            ],
+            "approxSizeMB": 533,
+            "updatedAt": "2026-11-08T06:34:39Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -237,10 +279,29 @@
           "tag": "osm-data",
           "file": "au-qld",
           "updatedAt": "2026-11-03T23:40:03Z",
-          "tiles": {
-            "file": "au-qld.tiles.db",
-            "approxSizeMB": 615,
-            "updatedAt": "2026-11-08T02:07:02Z",
+          "tileParts": {
+            "files": [
+              "au-qld.tiles.1.db",
+              "au-qld.tiles.2.db",
+              "au-qld.tiles.3.db",
+              "au-qld.tiles.4.db",
+              "au-qld.tiles.5.db",
+              "au-qld.tiles.6.db",
+              "au-qld.tiles.7.db",
+              "au-qld.tiles.8.db",
+              "au-qld.tiles.9.db",
+              "au-qld.tiles.10.db",
+              "au-qld.tiles.11.db",
+              "au-qld.tiles.12.db",
+              "au-qld.tiles.13.db",
+              "au-qld.tiles.14.db",
+              "au-qld.tiles.15.db",
+              "au-qld.tiles.16.db",
+              "au-qld.tiles.17.db",
+              "au-qld.tiles.18.db"
+            ],
+            "approxSizeMB": 730,
+            "updatedAt": "2026-11-08T06:43:27Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -258,10 +319,19 @@
           "tag": "osm-data",
           "file": "au-sa",
           "updatedAt": "2026-11-03T23:32:54Z",
-          "tiles": {
-            "file": "au-sa.tiles.db",
-            "approxSizeMB": 291,
-            "updatedAt": "2026-11-08T01:52:42Z",
+          "tileParts": {
+            "files": [
+              "au-sa.tiles.1.db",
+              "au-sa.tiles.2.db",
+              "au-sa.tiles.3.db",
+              "au-sa.tiles.4.db",
+              "au-sa.tiles.5.db",
+              "au-sa.tiles.6.db",
+              "au-sa.tiles.7.db",
+              "au-sa.tiles.8.db"
+            ],
+            "approxSizeMB": 338,
+            "updatedAt": "2026-11-08T06:46:51Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -279,10 +349,25 @@
           "tag": "osm-data",
           "file": "au-wa",
           "updatedAt": "2026-11-03T23:33:11Z",
-          "tiles": {
-            "file": "au-wa.tiles.db",
-            "approxSizeMB": 568,
-            "updatedAt": "2026-11-08T02:05:50Z",
+          "tileParts": {
+            "files": [
+              "au-wa.tiles.1.db",
+              "au-wa.tiles.2.db",
+              "au-wa.tiles.3.db",
+              "au-wa.tiles.4.db",
+              "au-wa.tiles.5.db",
+              "au-wa.tiles.6.db",
+              "au-wa.tiles.7.db",
+              "au-wa.tiles.8.db",
+              "au-wa.tiles.9.db",
+              "au-wa.tiles.10.db",
+              "au-wa.tiles.11.db",
+              "au-wa.tiles.12.db",
+              "au-wa.tiles.13.db",
+              "au-wa.tiles.14.db"
+            ],
+            "approxSizeMB": 655,
+            "updatedAt": "2026-11-08T06:54:46Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -300,10 +385,15 @@
           "tag": "osm-data",
           "file": "au-nt",
           "updatedAt": "2026-11-03T23:30:37Z",
-          "tiles": {
-            "file": "au-nt.tiles.db",
-            "approxSizeMB": 176,
-            "updatedAt": "2026-11-08T01:56:12Z",
+          "tileParts": {
+            "files": [
+              "au-nt.tiles.1.db",
+              "au-nt.tiles.2.db",
+              "au-nt.tiles.3.db",
+              "au-nt.tiles.4.db"
+            ],
+            "approxSizeMB": 197,
+            "updatedAt": "2026-11-08T06:56:40Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         },
@@ -321,10 +411,15 @@
           "tag": "osm-data",
           "file": "au-tas",
           "updatedAt": "2026-11-03T23:32:55Z",
-          "tiles": {
-            "file": "au-tas.tiles.db",
-            "approxSizeMB": 116,
-            "updatedAt": "2026-11-08T01:58:35Z",
+          "tileParts": {
+            "files": [
+              "au-tas.tiles.1.db",
+              "au-tas.tiles.2.db",
+              "au-tas.tiles.3.db",
+              "au-tas.tiles.4.db"
+            ],
+            "approxSizeMB": 136,
+            "updatedAt": "2026-11-08T06:56:43Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
           }
         }
