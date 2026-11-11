@@ -194,7 +194,7 @@
           "approxSizeMB": 563,
           "tag": "osm-data",
           "file": "au-nsw-act",
-          "updatedAt": "2026-11-03T23:43:37Z",
+          "updatedAt": "2026-11-11T08:52:11Z",
           "tileParts": {
             "files": [
               "au-nsw-act.tiles.1.db",
@@ -239,7 +239,7 @@
           "approxSizeMB": 599,
           "tag": "osm-data",
           "file": "au-vic",
-          "updatedAt": "2026-11-03T23:37:09Z",
+          "updatedAt": "2026-11-11T08:46:19Z",
           "tileParts": {
             "files": [
               "au-vic.tiles.1.db",
@@ -278,7 +278,7 @@
           "approxSizeMB": 306,
           "tag": "osm-data",
           "file": "au-qld",
-          "updatedAt": "2026-11-03T23:40:03Z",
+          "updatedAt": "2026-11-11T08:49:23Z",
           "tileParts": {
             "files": [
               "au-qld.tiles.1.db",
@@ -318,7 +318,7 @@
           "approxSizeMB": 111,
           "tag": "osm-data",
           "file": "au-sa",
-          "updatedAt": "2026-11-03T23:32:54Z",
+          "updatedAt": "2026-11-11T08:40:52Z",
           "tileParts": {
             "files": [
               "au-sa.tiles.1.db",
@@ -348,7 +348,7 @@
           "approxSizeMB": 179,
           "tag": "osm-data",
           "file": "au-wa",
-          "updatedAt": "2026-11-03T23:33:11Z",
+          "updatedAt": "2026-11-11T08:41:30Z",
           "tileParts": {
             "files": [
               "au-wa.tiles.1.db",
@@ -384,7 +384,7 @@
           "approxSizeMB": 40,
           "tag": "osm-data",
           "file": "au-nt",
-          "updatedAt": "2026-11-03T23:30:37Z",
+          "updatedAt": "2026-11-11T08:39:17Z",
           "tileParts": {
             "files": [
               "au-nt.tiles.1.db",
@@ -410,7 +410,7 @@
           "approxSizeMB": 72,
           "tag": "osm-data",
           "file": "au-tas",
-          "updatedAt": "2026-11-03T23:32:55Z",
+          "updatedAt": "2026-11-11T08:41:10Z",
           "tileParts": {
             "files": [
               "au-tas.tiles.1.db",
