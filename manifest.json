@@ -224,6 +224,12 @@
             "approxSizeMB": 774,
             "updatedAt": "2026-11-08T06:28:43Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-nsw-act.aerxa",
+            "approxSizeMB": 29,
+            "updatedAt": "2026-11-20T22:52:36Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -263,6 +269,12 @@
             "approxSizeMB": 533,
             "updatedAt": "2026-11-08T06:34:39Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-vic.aerxa",
+            "approxSizeMB": 27,
+            "updatedAt": "2026-11-20T22:52:21Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -303,6 +315,12 @@
             "approxSizeMB": 730,
             "updatedAt": "2026-11-08T06:43:27Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-qld.aerxa",
+            "approxSizeMB": 22,
+            "updatedAt": "2026-11-20T22:52:37Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -333,6 +351,12 @@
             "approxSizeMB": 338,
             "updatedAt": "2026-11-08T06:46:51Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-sa.aerxa",
+            "approxSizeMB": 10,
+            "updatedAt": "2026-11-20T22:52:22Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -369,6 +393,12 @@
             "approxSizeMB": 655,
             "updatedAt": "2026-11-08T06:54:46Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-wa.aerxa",
+            "approxSizeMB": 12,
+            "updatedAt": "2026-11-20T22:52:14Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -395,6 +425,12 @@
             "approxSizeMB": 197,
             "updatedAt": "2026-11-08T06:56:40Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-nt.aerxa",
+            "approxSizeMB": 1,
+            "updatedAt": "2026-11-20T22:51:50Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         },
         {
@@ -421,6 +457,12 @@
             "approxSizeMB": 136,
             "updatedAt": "2026-11-08T06:56:43Z",
             "waterPolygons": "www.osmdata.org mirror of osmdata.openstreetmap.de, Last-Modified 2026-11-03, SHA-256 78215f40775a014f0d26fa5588bf306c212ec8a3c68016cfd654a75403f1616c"
+          },
+          "addresses": {
+            "file": "au-tas.aerxa",
+            "approxSizeMB": 3,
+            "updatedAt": "2026-11-20T22:51:55Z",
+            "source": "g-naf_nov26_allstates_gda2020_psv_120.zip"
           }
         }
       ]
